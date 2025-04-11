@@ -7,7 +7,7 @@ reddit = praw.Reddit(
     client_id="_8SGtgdhCTt0LmiZAAupnA",
     client_secret="TA1TOqLehetiygfNMboyp-ZxN4nMWQ",
     user_agent="zzz okjimin",
-    username="TurbulentDream6933",       # script 앱일 경우 필요
+    username="TurbulentDream6933",       
     password="Ok75792000"
 )
 
