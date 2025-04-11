@@ -2,6 +2,15 @@
 import praw
 from datetime import datetime
 
+import re
+
+def clean_text(text):
+    # 줄바꿈 제거
+    text = text.replace('\n', ' ').strip()
+    # 영어, 숫자, 일반적인 구두점만 남기기 (이외는 제거)
+    text = re.sub(r"[^a-zA-Z0-9.,!?\'\"()\-:; ]", "", text)
+    return text
+
 # Reddit infor  
 reddit = praw.Reddit(
     client_id="_8SGtgdhCTt0LmiZAAupnA",
@@ -20,15 +29,16 @@ f = open("raddit_hot_comments_" + now + ".txt" , 'w', encoding = 'utf-8')
 f.write("Record Start Time: " + datetime.now().strftime("%Y-%m-%d %H:%M:%S")) 
 for i,post in enumerate(subreddit.hot(limit = searchSize), start = 1):
     f.write(f"\n\nPost {i}:\n")
-    f.write(f"Title: {post.title}\n")
+    f.write(f"Title: {clean_text(post.title)}\n")
     #f.write(f"URL: {post.url}\n")
     f.write("Comments:\n")
 
     post.comments.replace_more(limit=0)
     for comment in post.comments[:5]:
-        cleaned_comment = comment.body.replace('\n', ' ').strip()
+        cleaned_comment = clean_text(comment.body)
+        #cleaned_comment = comment.body.replace('\n', ' ').strip()
         f.write(f"- {cleaned_comment}\n")
 
-f.write("\Record End Time: " + datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+f.write("\nRecord End Time: " + datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
 f.close()
 
