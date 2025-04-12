@@ -1,0 +1,3570 @@
+[
+    {
+        "Title": "Bitcoin Newcomers FAQ - Please read!",
+        "Creation-Time": "2025-04-11 19:59:15",
+        "Body": "Welcome to the rBitcoin Newcomers FAQ  You've probably been hearing a lot about. Bitcoin recently and are wondering what's the big deal?  Most of your questions. should be answered by the resources below but if you have additional questions. feel free to ask them in the comments.    It all started with the release of. Satoshi Nakamoto's whitepaper(https:bitcoin.orgbitcoin.pdf) however that will. probably go over the head of most readers so we recommend the following. articlesbooksvideos as a good starting point for understanding how Bitcoin works. and a little about its long term potential:   Article: The Bullish Case for. Bitcoin(https:medium.comvijayboyapatithe-bullish-case-for-bitcoin-6ecc8bdecc1). Book: The Bitcoin Standard(https:www.amazon.comBitcoin-Standard-Decentralized-. Alternative-Centraldp1119473861) - or download a free copy. here(http:cryptache.rowp-contentuploads202104The-Bitcoin-Standard-The-. Decentralized-Alternative-to-Central-Banking-PDF-Room.pdf)  Video 1: An. introduction to Bitcoin - Wences. Casares(https:www.youtube.comwatch?vIAFKJVLNVQA)  Video 2: The Stories We Tell. About Money - Andreas Antonopoulos(https:www.youtube.comwatch?vONvg9SbauMg). Video 3: The Bitcoin Standard - Saifdean. Ammous(https:www.youtube.comwatch?vZbm772vF-5Mt286s)   Video 4: Bitcoin 101 -. Balaji Srinivasan(https:www.youtube.comwatch?vJIxwTx7oB4)  Some other great. educational resources include;   The Satoshi Nakamoto. Institute(http:nakamotoinstitute.orgmempool) (check them out!)    Swan Bitcoin. Canon(https:www.swanbitcoin.comcanon)  Michael Saylor's Hope.com(https:hope.com) and \"Bitcoin for Everybody\")(https:learn.saylor.orgcourseview.php?id468) course. Jameson Lopp's resource page(http:lopp.netbitcoin.html)  Gigi's resource. page(https:bitcoin-resources.combitcoin-non-technical)  James D'Angelo's Bitcoin. 101 Blackboard series(https:www.youtube.comwatch?vBhe61JaNFLUlistPLzctEq7iZD-7-. DgJM604zsndMapn9ff6qindex7t0s)  Parker Lewis's Gradually Then Suddenly. series(https:unchained.comblogcategorygradually-then-suddenly)  Some Bitcoin. statistics can be found here (1(https:www.lookintobitcoin.com),. 2(https:data.bitcoinity.orgbitcoinhashrate6m?cmg15rweekta),. 3(https:bitcoinvisuals.com), 4(https:bitcoin.clarkmoody.comdashboard),. 5(https:studio.glassnode.comworkbenchbtc-price-performance-since-halving),. 6(https:augmentedcoin.iobtc), 7(https:nakamotoportfolio.comnakamotostart)).  A. Reading List of Advanced Bitcoin Books(https:new.reddit.comrBitcoincomments1c5fj. hnadvancedbitcoinreadinglistcurriculuminorder)    If you are technically or. academically inclined check out;   Developer resources. (1(https:developer.bitcoin.org), 2(https:spiral.xyzprojects))   Peer-reviewed. research papers(https:docs.google.comspreadsheetsd1VaWhbAj7hWNdiE73P-W-. wrl5a0WNgzjofmZXe0Rh5sg)  Course lectures from both. MIT(https:ocw.mit.educourses15-s12-blockchain-and-money-fall-2018) and Princeton. (https:www.reddit.comrBitcoincomments7qynvjdontpanicjustlearnsixtyfreelecturesfr. om)    Future protocol. improvements(http:diyhpl.uswikitranscripts2018-01-24-rusty-russell-future-. bitcoin-tech-directions) and scaling resources(https:www.reddit.comrBitcoincomme. ntss56nnd8thescalingbitcoinwebsiteisawesomevideos).    MicroStrategy's Bitcoin. for Corporations(https:www.microstrategy.comenresourceseventsworld-2021bitcoin-. summit?CID7014W0000014yhJQAQ) is an excellent open source series on corporate. legal and financial Bitcoin integration.  You can also see the number of times. Bitcoin was declared dead by the media(https:99bitcoins.comobituary-stats). (LOL!)   Key properties of Bitcoin   Limited Supply - There will only ever be a. maximum of 21,000,000 bitcoins created(https:www.reddit.comrBitcoincomments10h04. a6thisishowweknowtheresonly21millionbitcoin) and they are issued in a. predictable fashion per the inflation. schedule(https:bashco.github.ioBitcoinMonetaryInflation).  Once they are all. issued Bitcoin will be truly deflationary.  The halving. countdown(http:bitcoinblockhalf.com) tells you approximately how much time until. the next block reward halving.  Open source - Bitcoin code is fully auditable.. You can read and contribute to the source code(https:github.combitcoinbitcoin). yourself.  Accountable - The public ledger is transparent, all transactions are. seen by everyone(https:blockstream.info).  Decentralized - Bitcoin is globally. distributed across thousands of nodes with no single point of failure and as. such can't be shut down similar to how. Bittorrent(https:en.wikipedia.orgwikiBitTorrent) works.  You can even run a node. on a Raspberry Pi(https:getumbrel.com).    Censorship resistant - No one can. prevent you from interacting with the Bitcoin network and no one can censor,. alter or block transactions that they disagree with, see Operation. Chokepoint(https:en.wikipedia.orgwikiOperationChokePoint).  Push system - There. are no chargebacks(https:gendal.me20131021lessons-from-bitcoin-push-versus-pull). in Bitcoin because only the person who owns the address where the bitcoin. resides has the authority to move them.  Borderless - No country can stop it. from going inout, even in areas currently unserved by traditional banking as the. ledger is globally distributed(https:bitnodes.ionodeslive-map).  Trustless -. Bitcoin solved the Byzantine's Generals. Problem(https:en.wikipedia.orgwikiByzantinefaulttolerance) which means nobody. needs to trust anybody for it to work.  Pseudonymous - No need to expose. personal information(https:buybitcoinworldwide.comanonymity) when purchasing. with cash or transacting.   Secure - Blocks and transactions are. cryptographically secured (using hashes and signatures) and cant be brute. forced(http:i.imgur.comfYFBsqp.jpg) or confiscated with proper key management. such as hardware wallets.  Programmable - Individual units of bitcoin can be. programmed to transfer(https:en.bitcoin.itwikiScript) based on certain criteria. being met  Divisible - Each bitcoin can be divided down to 8. decimals(https:en.bitcoin.itwikiSatoshi(unit)), which means you don't have to. worry about buying an entire bitcoin.   Nearly instant - From a few seconds on. the Lightning Network to a few minutes(https:www.blockchain.comchartsmedian-. confirmation-time) on-chain depending on need for confirmations.  Transactions. are irreversible by normal users after one confirmation and irreversible by. anyone (including miners) after 6 confirmations.   Peer-to-peer - No. intermediaries taking a cut, no need for trusted third. parties(https:nakamotoinstitute.orgtrusted-third-parties).  Designed Money -. Bitcoin was created to fit all the fundamental properties of. money(https:imgur.coma5w3l2A6) better than gold or fiat.  Portable - Bitcoin are. digital so they are easier to move than cash or gold.  They can be transported. by simply carrying a seed (a string of 12 to 24 words) on a device or by. memorizing it for wallet recovery(https:en.bitcoin.itwikiBrainwallet) (while. cool, memorizing is generally not recommended due to potential for forgetting. the seed and the potential for insecure key generation by inexperienced users.. Hardware wallets are the preferred method for most users for their ease of use. and additional security).  Low fee scaling - Most wallets calculate on chain. fees automatically but you can view fee estimates(https:river.comlearnhow-. bitcoin-fees-work) and mempool activity(https:jochen-hoenicke.dequeue0,2w) if. you want to set your fee manually.  On chain fees may rise occasionally due to. network demand, however instant micropayments that do not require confirmations. are happening via the Lightning Network(https:lightning.network), an open source. second layer payment protocol built on top of the Bitcoin blockchain. The. Lightning Network enables Bitcoin users to instantly send and receive bitcoin. with fees so low that they are negligible.  Scalable - While the protocol is. still being optimized for increased transaction. capacity(https:en.bitcoin.itwikiScalability), blockchains do not scale very. well, so most transaction volume is expected to occur on Layer 2 networks built. on top of Bitcoin.   Where can I buy bitcoin?. Bitcoin.org(https:bitcoin.orgenbuy) and. BuyBitcoinWorldwide.com(https:www.buybitcoinworldwide.com) are helpful sites for. beginners.  You can buy or sell any amount of bitcoin (even just a few dollars. worth) and there are several easy methods to purchase bitcoin with cash, credit. card or bank transfer.  Some of the more popular places to buy bitcoin are. listed below.   Strike(https:strike.me)  Cash App(https:cash.app). Swan(https:www.swanbitcoin.com)  River Financial(https:river.com)  Bull. Bitcoin(https:www.bullbitcoin.com)   Bitcoin Well(https:bitcoinwell.com). Relai(https:relai.app)  LibertyX(https:libertyx.com). CoinCorner(https:www.coincorner.com)  Bisq(https:bisq.network) (decentralized. P2P)  HodlHodl(https:hodlhodl.com?filters5Bcurrencycode5DUSD) (P2P)  List of. peer-to-peer exchanges(https:github.comcointasticalP2P-Trading-Exchanges). Debifi(https:debifi.com) (non-custodial lending)  You can also purchase in cash. with local ATMs(http:coinatmradar.com). If you would like your paycheck. automatically converted to bitcoin try Bitwage(https:www.bitwage.com).    Note:. Bitcoin are valued at whatever market price(https:aggr.trade1m1h) people are. willing to pay for them in balancing act of supply vs demand. Unlike traditional. markets, bitcoin markets operate 24 hours per day, 365 days per year.. Securing your bitcoin  With Bitcoin you can \"Be your own bank\" and personally. secure your bitcoin OR you can use third party companies aka \"Bitcoin banks\". which will hold your bitcoin for you.   If you prefer to \"Be your own bank\" and. have direct control over your coins without having to use a trusted third party,. then you will need to create your own wallet and keep it secure. If you want. easy and secure storage without having to learn best computer security. practices, then a hardware wallet such as a. BitBox02(https:bitbox.swissbitbox02),  Trezor(https:www.trezor.io),. ColdCard(https:coldcardwallet.com), or Blockstream. Jade(https:blockstream.comjade) is recommended. You can even build your own open. source hardware wallets called a SeedSigner(https:seedsigner.com) or. Krux(https:selfcustody.github.iokrux).   If you cannot afford a hardware wallet. there are many software wallet(https:bitcoin.orgenchoose-your-wallet) options to. choose from depending on your use case.  Mobile wallets like. BlueWallet(https:bluewallet.io) are generally more secure than desktop wallets.. Beware of fake mobile wallets and check reviews from reputable Bitcoin websites.. Avoid paper wallets or brain wallets.   If you prefer to work with third party. \"Bitcoin banks\" to set up a collaborative custody arrangement, try Unchained. Capital(https:unchained-capital.com) but be aware that any third party you use. exposes you to third party risk.  There is a saying in the community, \"Not your. keys, not your coins\".   Note: For increased security, use Two Factor. Authentication (2FA) everywhere it is offered, including email!   2FA requires a. second confirmation code or a physical security key to access your account. making it much harder for thieves to gain access.  Google Authenticator and. Authy are the two most popular 2FA services, download links are below.  Make. sure you create backups of your 2FA codes.  Avoid using your cell number for. 2FA.  Hackers have been using a technique called \"SIM swapping\" to impersonate. users and steal bitcoin off exchanges.  Google Auth  Authy  OTP Auth.",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "Bitcoin Newcomers FAQ",
+            "Bitcoin resources",
+            "Bitcoin basics",
+            "Bitcoin properties",
+            "Buying Bitcoin",
+            "Securing Bitcoin"
+        ],
+        "Suggested-marketing-tags": [
+            "Bitcoin education",
+            "Cryptocurrency learning",
+            "Investing in Bitcoin",
+            "Securing digital assets",
+            "Bitcoin for beginners"
+        ],
+        "Top-3-comments": [
+            {
+                "comment-sentiment": "Positive"
+            },
+            {
+                "comment-sentiment": "Positive"
+            },
+            {
+                "comment-sentiment": "Positive"
+            }
+        ]
+    },
+    {
+        "Title": "Please extract and return a single JSON object with the following keys:",
+        "Creation-Time": "2023-05-01T00:00:00Z",
+        "Body": "Here is a Reddit post:\n\n\n\n\n\n\n\nPlease extract and return a single JSON object with the following keys:\n\n- Title\n- Creation-Time\n- Body\n- Sentiment\n- Key-topics-or-keywords\n- Suggested-marketing-tags\n- Top-3-comments\n- comment-sentiment\n**Return only subreddit names that actually exist on Reddit.**\nReturn only **one valid JSON object**, no explanations or additional text.",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "reddit",
+            "json",
+            "marketing",
+            "data"
+        ],
+        "Suggested-marketing-tags": [
+            "marketing",
+            "data_analysis",
+            "social_media"
+        ],
+        "Top-3-comments": [],
+        "comment-sentiment": []
+    },
+    {
+        "Title": "Easy to use AI to help you with your daily tasks",
+        "Creation-Time": "2022-12-15T12:00:00Z",
+        "Body": "Hey Reddit, I'm so excited to share a new AI tool that can help you with your daily tasks. It's easy to use and can save you a ton of time. Give it a try and let me know what you think!",
+        "Sentiment": "positive",
+        "Key-topics-or-keywords": [
+            "AI",
+            "daily tasks",
+            "time-saving"
+        ],
+        "Suggested-marketing-tags": [
+            "AI tool",
+            "productivity",
+            "time management"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment-text": "Wow, this is amazing! I can't believe how much time I've been wasting on these tasks. Thanks for sharing!",
+                "Comment-sentiment": "positive"
+            },
+            {
+                "Comment-text": "This is a game-changer. I've been looking for a tool like this for a while now. Thanks for the recommendation!",
+                "Comment-sentiment": "positive"
+            },
+            {
+                "Comment-text": "I tried it out and it's definitely helpful. I wish I had known about it sooner!",
+                "Comment-sentiment": "positive"
+            }
+        ],
+        "Subreddit": "AI"
+    },
+    {
+        "Title": "Please help me improve my product's marketing strategy",
+        "Creation-Time": "2023-02-10T08:00:00Z",
+        "Body": "I'm currently working on a new product and I'm struggling to come up with a marketing strategy that will help me reach my target audience. I've done some research and have identified some keywords and topics that I think are relevant to my product, but I'm not sure how to use them effectively. Can anyone provide some advice or suggestions on how I can improve my marketing strategy?",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "product marketing",
+            "target audience",
+            "keyword research",
+            "marketing strategy"
+        ],
+        "Suggested-marketing-tags": [
+            "product marketing",
+            "target audience",
+            "keyword research",
+            "marketing strategy",
+            "social media marketing",
+            "content marketing",
+            "SEO",
+            "PPC"
+        ],
+        "Top-3-comments": [
+            {
+                "comment_title": "Consider using social media ads",
+                "comment_body": "I would recommend looking into social media advertising, especially if your target audience is active on platforms like Facebook or Instagram. You can use the keywords and topics you've identified to create targeted ads that will reach your ideal customers.",
+                "comment_sentiment": "positive",
+                "subreddit_name": "marketing"
+            },
+            {
+                "comment_title": "Don't forget about email marketing",
+                "comment_body": "Email marketing can be a very effective way to reach your target audience and build a relationship with them. You can use your keywords and topics to create targeted email campaigns that will help you engage with your customers and drive sales.",
+                "comment_sentiment": "neutral",
+                "subreddit_name": "marketing"
+            },
+            {
+                "comment_title": "Think about content marketing",
+                "comment_body": "Content marketing can be a great way to attract your target audience and establish yourself as an authority in your niche. You can create blog posts, infographics, and other types of content that use your keywords and topics to attract your ideal customers.",
+                "comment_sentiment": "positive",
+                "subreddit_name": "marketing"
+            }
+        ]
+    },
+    {
+        "Title": "AI Chatbot Takes Over",
+        "Creation-Time": "2023-03-03T08:30:00Z",
+        "Body": "Hey guys! I'm using this AI chatbot and it's amazing!\n\nI was able to get it to do my homework in no time!\n\nI'm thinking about using it for my marketing campaign as well.\n\nHas anyone else had any experience with this?",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "AI chatbot",
+            "marketing campaign"
+        ],
+        "Suggested-marketing-tags": [
+            "AI marketing",
+            "Chatbot marketing"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Wow, I haven't heard of that before. I'll have to check it out.",
+                "Sentiment": "Neutral"
+            },
+            {
+                "Comment": "I've been using it for a while now and it's been great for lead generation.",
+                "Sentiment": "Positive"
+            },
+            {
+                "Comment": "I heard it can be expensive though.",
+                "Sentiment": "Negative"
+            }
+        ],
+        "Subreddit": "AI"
+    },
+    {
+        "Title": "Please extract and return a single JSON object with the following keys:",
+        "Creation-Time": "2022-08-16T05:33:05.000Z",
+        "Body": "Please extract and return a single JSON object with the following keys:\n\n- Title\n- Creation-Time\n- Body\n- Sentiment\n- Key-topics-or-keywords\n- Suggested-marketing-tags\n- Top-3-comments\n- comment-sentiment\n\n**Return only subreddit names that actually exist on Reddit.**  Return only **one valid JSON object**, no explanations or additional text.",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "Data extraction",
+            "Reddit post",
+            "JSON object",
+            "Subreddit",
+            "Marketing tags",
+            "Top comments",
+            "Sentiment"
+        ],
+        "Suggested-marketing-tags": [
+            "Data Analysis",
+            "Social Media Marketing",
+            "Customer Service",
+            "Content Creation"
+        ],
+        "Top-3-comments": [],
+        "comment-sentiment": []
+    },
+    {
+        "Title": "Running a Bitcoin Node and Security Best Practices",
+        "Creation-Time": "2022-12-29T00:00:00Z",
+        "Body": "The post discusses running a Bitcoin node and best practices for security, including using open-source software wallets and avoiding scams. It also mentions the importance of verifying Bitcoin node programs and seed words, and the risks of using ad-based search engines or clicking on suspicious links.",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin node",
+            "security best practices",
+            "open-source software wallets",
+            "scams",
+            "verifying Bitcoin node programs",
+            "seed words",
+            "ad-based search engines",
+            "suspicious links"
+        ],
+        "Suggested-marketing-tags": [
+            "Bitcoin",
+            "blockchain",
+            "cryptocurrency",
+            "security",
+            "node software",
+            "wallets",
+            "scam prevention",
+            "cybersecurity",
+            "open source",
+            "decentralization"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment-Title": "Re: Running a Bitcoin Node and Security Best Practices",
+                "Comment-Body": "Great post! I've been running a Bitcoin node for a while now and it's been a great learning experience.",
+                "Comment-Sentiment": "positive"
+            },
+            {
+                "Comment-Title": "Re: Running a Bitcoin Node and Security Best Practices",
+                "Comment-Body": "Thanks for the information! I've been hesitant to run a Bitcoin node because of the security concerns, but this post has helped me understand the best practices.",
+                "Comment-Sentiment": "neutral"
+            },
+            {
+                "Comment-Title": "Re: Running a Bitcoin Node and Security Best Practices",
+                "Comment-Body": "I'm not sure if I'm ready to run a Bitcoin node yet, but I appreciate the detailed explanation of the process and the potential risks.",
+                "Comment-Sentiment": "neutral"
+            }
+        ],
+        "comment-sentiment": [
+            "positive",
+            "neutral",
+            "neutral"
+        ]
+    },
+    {
+        "Title": "Bitcoin as a payment method",
+        "Creation-Time": "not available",
+        "Body": "Bitrefill, Gyft, and Fold App offer gift cards for thousands of retailers worldwide, including Amazon, Target, Walmart, Starbucks, Whole Foods, CVS, Lowes, Home Depot, iTunes, Best Buy, Sears, Kohls, eBay, GameStop, etc. Spendabit, Overstock, and The Bitcoin Directory provide retail shopping with millions of results. NewEgg and Dell are great for electronics. Bitrefill, Bylls, LivingRoomofSatoshi, Swapin, and Coins.ph offer bill payment. Menufy and Takeaway deliver takeout to your door. Expedia, Cheapair, Destinia, SkyTours, Travel category on Gyft, and 9flats are for travel. Cryptostorm, Mullvad, and PIA offer VPN services. Namecheap, Porkbun, and Stampnik offer domain name registration and discounted USPS Priority, Express, and First-Class mail postage. There are also lots of charities that accept bitcoin donations. Benefits to accepting bitcoin as a payment method for merchants include savings over credit cards or PayPal, no chargebacks, accepting business from a global customer base, and converting 100% of the sale to the currency of your choice for deposit to your account. Options for accepting bitcoin as a payment method include BTCPay Server, Zaprite, Square cash, Stripe, Blockonomics, and CoinCorner Checkout. Mining bitcoin can be a fun learning experience, but you will most likely operate at a loss. Running a full node and propagating transactions can contribute to the Bitcoin network. You can also earn bitcoin by being paid to do a job.",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin payment method",
+            "Bitcoin retailers",
+            "Bitcoin VPN services",
+            "Bitcoin domain name registration",
+            "Bitcoin donations",
+            "Bitcoin mining",
+            "Bitcoin full node",
+            "Bitcoin job"
+        ],
+        "Suggested-marketing-tags": [
+            "Payment method",
+            "Retail shopping",
+            "VPN services",
+            "Domain name registration",
+            "Charitable donations",
+            "Mining",
+            "Full node",
+            "Earning Bitcoin"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Thanks for sharing! I didn't know about some of these retailers accepting Bitcoin.",
+                "Sentiment": "positive"
+            },
+            {
+                "Comment": "I've been using Gyft to buy Amazon gift cards with Bitcoin. It's really convenient.",
+                "Sentiment": "positive"
+            },
+            {
+                "Comment": "I'm interested in accepting Bitcoin as a payment method, but I'm not sure where to start. Any recommendations?",
+                "Sentiment": "neutral"
+            }
+        ],
+        "Subreddit": "Bitcoin"
+    },
+    {
+        "Title": "Bitcoin earning opportunities and related projects",
+        "Creation-Time": "Not provided in this data",
+        "Body": "WorkingForBitcoins(https:workingforbitcoins.com), Bitwage(https:www.bitwage.comfor-individuals), Coinality(https:coinality.com), Bitgigs(http:bitgigs.com), rJobs4Bitcoins(http:www.reddit.comrJobs4Bitcoins). Freelancing Lolli(https:www.lolli.com) Earn bitcoin when you shop online! You can also earn bitcoin by participating as a market maker on JoinMarket(https:github.comchris-belcherjoinmarket) by allowing users to perform CoinJoin transactions with your bitcoin for a small fee (requires you to already have some bitcoin). Bitcoin-Related Projects The following is a short list of ongoing projects that might be worth taking a look at if you are interested in current development in the Bitcoin space. Project Description",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin earning opportunities",
+            "Bitcoin-Related Projects"
+        ],
+        "Suggested-marketing-tags": [
+            "BitcoinEarning",
+            "CryptocurrencyJobs",
+            "BitcoinRelatedProjects"
+        ],
+        "Top-3-comments": [],
+        "comment-sentiment": []
+    },
+    {
+        "Title": "Bitcoin Scaling Solutions",
+        "Creation-Time": "2021-03-27T09:00:00Z",
+        "Body": "Lightning Network(https:lightning.engineeringindex.html) Second layer scaling.\nLiquid(https:blockstream.comliquid) and Rootstock(https:www.rsk.co) Sidechains.\nHivemind(http:bitcoinhivemind.com) Prediction markets.\nDropZone(https:github.com17Q4MX2hmktmpuUKHFuoRmS5MfB5XPbhoddropzone) and. Beaver(https:eprint.iacr.org2016464.pdf) Decentralized markets.\nJoinMarket(https:github.comchris-belcherjoinmarket), JAM. app(https:www.youtube.comwatch?vFbyjG2upGO8) and. Wasabi(https:docs.wasabiwallet.io) CoinJoin implementation Peer-to-Peer.\nExchanges(https:github.comcointasticalP2P-Trading-Exchanges) Peer-to-peer. exchanges Keybase(https:keybase.io) Identity Reputation management.\nAbra(https:www.goabra.com) Global P2P money transmitter network.\nBitcore(http:bitcore.io) Open source Bitcoin javascript library Bitcoin.\nKnots(https:bitcoinknots.org) A Bitcoin Node (Within Consensus Fork of Bitcoin. Core) Bitcoin Units One bitcoin is worth quite a lot (thousands of ), so. people often deal in smaller units. The most common subunits are listed below:",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Scaling Solutions",
+            "Lightning Network",
+            "Liquid",
+            "Rootstock",
+            "Hivemind",
+            "DropZone",
+            "Beaver",
+            "JoinMarket",
+            "Wasabi",
+            "Exchanges",
+            "Keybase",
+            "Abra",
+            "Bitcore",
+            "Bitcoin Units"
+        ],
+        "Suggested-marketing-tags": [
+            "Bitcoin",
+            "Scaling Solutions",
+            "Blockchain",
+            "Cryptocurrency",
+            "Decentralized",
+            "Peer-to-Peer",
+            "Innovation",
+            "Technology"
+        ],
+        "Top-3-comments": [],
+        "comment-sentiment": []
+    },
+    {
+        "Title": "Bitcoin units and their equivalents",
+        "Creation-Time": "2022-05-17 00:00:00",
+        "Body": "Bitcoin units and their equivalents explained with examples, and a link to the Bitcoin units wiki.",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "Bitcoin units",
+            "BTC",
+            "mBTC",
+            "bits",
+            "satoshi",
+            "FAQ"
+        ],
+        "Suggested-marketing-tags": [
+            "Cryptocurrency",
+            "Blockchain",
+            "Bitcoin",
+            "Units",
+            "FAQ",
+            "Community"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Please feel free to make constructive edits(https://www.reddit.com/r/BitcoinWiki/wikirbitcoinsticky) to the document, they will be implemented pending mod review. Also if you have any beginner questions regarding bitcoin feel free to post them in the comments below, several community members are happy to help answer them. Note that this thread will be moderated and non-constructive feedback will be removed. Thanks and welcome to Bitcoin!",
+                "comment-sentiment": "Positive"
+            },
+            {
+                "Comment": "This is a great resource for beginners! I learned a lot from reading this.",
+                "comment-sentiment": "Positive"
+            },
+            {
+                "Comment": "I found this post very informative and helpful. Thanks for sharing!",
+                "comment-sentiment": "Positive"
+            }
+        ]
+    },
+    {
+        "Title": "Daily Discussion, April 12, 2025",
+        "Creation-Time": "2025-04-12 06:02:54",
+        "Body": "Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or rBitcoinnew which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread(https:www.reddit.comrBitcoincomments1jwj2fedailydiscussionapril112025). for unanswered questions.",
+        "Sentiment": "negative",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "investment",
+            "fiat money",
+            "stockholm syndrome",
+            "DCA"
+        ],
+        "Suggested-marketing-tags": [
+            "BitcoinInvestment",
+            "CryptoMarket",
+            "FinancialLiteracy",
+            "StockholmSyndrome",
+            "DividendReinvestment"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment-content": "They started a conversation about investments, money and bitcoin. My god, people are so uneducated. They don't even understand the basics. If your savings make you 3 but desirable goods cost 10 more year after year, you're losing period. People seem to have a hard time understanding this simple math jesus. Not saying bitcoin gonna become what we expect it will become but saving in fiat is like someone with stockholm syndrome. You stay with your abusive overlords."
+            },
+            {
+                "Comment-content": "To my fellow DCAers: nods approvingly"
+            },
+            {
+                "Comment-content": "Fiat money dropping in value. Bitcoin rising. Some things never change."
+            }
+        ],
+        "comment-sentiment": [
+            "negative",
+            "neutral",
+            "neutral"
+        ]
+    },
+    {
+        "Title": "People who is waiting for 50.000 will have to buy at 100.000.",
+        "Creation-Time": "2025-04-12 14:02:55",
+        "Body": "Believe or not, its up to you.",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "Crypto",
+            "Investment",
+            "Waiting",
+            "Price"
+        ],
+        "Suggested-marketing-tags": [
+            "Crypto",
+            "Investment",
+            "Price Prediction"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "What about us who bought at 107.000?",
+                "Sentiment": "Negative"
+            },
+            {
+                "Comment": "Michael, you a schill.",
+                "Sentiment": "Negative"
+            },
+            {
+                "Comment": "I is waiting for it.",
+                "Sentiment": "Neutral"
+            }
+        ],
+        "comment-sentiment": [
+            "Negative",
+            "Negative",
+            "Neutral"
+        ]
+    },
+    {
+        "Title": "do you guys invest in stocks or primarily bitcoin ?",
+        "Creation-Time": "2025-04-12 16:12:40",
+        "Body": "just trying to get an idea what the sub thinks about diversifying or if we are putting our eggs in one basket",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "investing",
+            "stocks",
+            "bitcoin",
+            "diversification"
+        ],
+        "Suggested-marketing-tags": [
+            "investment",
+            "cryptocurrency",
+            "finance",
+            "diversification"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "401k through my employer and bitcoin on my own",
+                "Comment-Sentiment": "neutral"
+            },
+            {
+                "Comment": "Stocks are too volatile. It's just gambling. I'd rather stick with something stable like Bitcoin",
+                "Comment-Sentiment": "negative"
+            },
+            {
+                "Comment": "OK I'll bite, what's bitcoin?",
+                "Comment-Sentiment": "neutral"
+            }
+        ],
+        "comment-sentiment": [
+            "neutral",
+            "negative",
+            "neutral"
+        ]
+    },
+    {
+        "Title": "US banking crypto bill by August.",
+        "Creation-Time": "2025-04-12 17:30:13",
+        "Body": "Bipartisan and passed through the banking committee.",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "Crypto",
+            "Banking",
+            "Bipartisan"
+        ],
+        "Suggested-marketing-tags": [
+            "Finance",
+            "Crypto News",
+            "Regulation"
+        ],
+        "Top-3-comments": [
+            {
+                "User": "User1",
+                "Comment": "this is surreal, many of us hoped to see events like this some day possibly in our lifetime but here we are.."
+            },
+            {
+                "User": "User2",
+                "Comment": "What does this mean exactly?"
+            }
+        ],
+        "comment-sentiment": [
+            "Positive",
+            "Neutral"
+        ]
+    },
+    {
+        "Title": "Help prove my friend wrong. He thinks 200k max for btc.",
+        "Creation-Time": "2025-04-12 17:22:59",
+        "Body": "Lets hear it.",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Maximum price",
+            "Fiat currency"
+        ],
+        "Suggested-marketing-tags": [
+            "Cryptocurrency",
+            "Investing",
+            "Finance"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Why not 201k?.",
+                "Comment-Sentiment": "Neutral"
+            },
+            {
+                "Comment": "Bitcoin has no top because fiat has no bottom.",
+                "Comment-Sentiment": "Neutral"
+            },
+            {
+                "Comment": "Why do you want to prove him anything? :)",
+                "Comment-Sentiment": "Neutral"
+            }
+        ]
+    },
+    {
+        "Title": "Are you ready, kids?",
+        "Creation-Time": "2025-04-11 20:42:46",
+        "Body": "Comments:",
+        "Sentiment": 0,
+        "Key-topics-or-keywords": [
+            "meme coin",
+            "supply",
+            "government"
+        ],
+        "Suggested-marketing-tags": [
+            "Crypto",
+            "Trading",
+            "Investment",
+            "Meme"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Are those eyes painted on his eyelids?",
+                "Comment-sentiment": 0
+            },
+            {
+                "Comment": "imhotep says founds are safu.",
+                "Comment-sentiment": 0
+            },
+            {
+                "Comment": "Someone just shilled me this meme coin:  - 36 trillion supply  - No supply c  - 1 node  25 of supply minted in the last 6 months  1 of holders own 30  Backed by the U.S. government.",
+                "Comment-sentiment": -1
+            }
+        ]
+    },
+    {
+        "Title": "Is fiat dead? Are we expecting a bump soon? Is anyone buying the dip?",
+        "Creation-Time": "2025-04-11 23:55:04",
+        "Body": "Comments: [['They are about to devalue the dollar. Could be interesting.'], ['How has it not just been delisted yet.'], ['Idk, but my employer always gives me this worthless trash for my hard work, and I immediately have to swap it for something else before it goes down in value.']]",
+        "Sentiment": "Negative",
+        "Key-topics-or-keywords": [
+            "Fiat",
+            "Dollar",
+            "Devaluation",
+            "Delisting"
+        ],
+        "Suggested-marketing-tags": [
+            "Currency",
+            "Finance",
+            "Investment"
+        ],
+        "Top-3-comments": [
+            "Comments: [['They are about to devalue the dollar. Could be interesting.'], ['How has it not just been delisted yet.'], ['Idk, but my employer always gives me this worthless trash for my hard work, and I immediately have to swap it for something else before it goes down in value.']]"
+        ],
+        "comment-sentiment": "Negative"
+    },
+    {
+        "Title": "This point of sale device takes bitcoin or fiat (and I paid with a ring)",
+        "Creation-Time": "2025-04-12 09:18:22",
+        "Body": "I am Not sponsored or affiliated by any bitcoin payment devices or water bottle. companies.",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "bitcoin",
+            "point of sale device",
+            "fiat",
+            "paying with a ring"
+        ],
+        "Suggested-marketing-tags": [
+            "cryptocurrency payments",
+            "modern payment methods",
+            "innovative payment solutions"
+        ],
+        "Top-3-comments": [
+            "Wow, that's one cheap bo-oo-wo-a.",
+            "For the record. Im not sponsored by any bitcoin PoS companies, jewellers or water bottle companies. lol.   I just think its cool tech.",
+            "Joe Nakamoto deserves so many more subs on YouTube for the content he is delivering! Keep it up Joe!"
+        ],
+        "comment-sentiment": [
+            "negative",
+            "neutral",
+            "positive"
+        ]
+    },
+    {
+        "Title": "Bitcoin is not just a store of value  it's a solution to many financial problems.",
+        "Creation-Time": "2025-04-12 08:47:27",
+        "Body": "Tired of dealing with frozen funds, random account locks, and terrible customer. service from companies like PayPal and traditional banks? Bitcoin offers a reliable, decentralized alternative where youre in full control of your money. No bank holidays. No unexplained holds. No middlemen. Just financial freedom.",
+        "Sentiment": "positive",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "financial problems",
+            "decentralized",
+            "control of money",
+            "no bank holidays",
+            "no unexplained holds",
+            "no middlemen"
+        ],
+        "Suggested-marketing-tags": [
+            "Bitcoin",
+            "Financial Freedom",
+            "Decentralization",
+            "No Middlemen"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "they'll just move onto another similar service, feel good about it for years until they get their accounts locked again, and question why they ever left PayPal. normies don't think outside the square.",
+                "Comment-sentiment": "negative"
+            },
+            {
+                "Comment": "I wouldn't mind getting paid in cryptos by default. It's a real financial system not made up or manipulated.",
+                "Comment-sentiment": "positive"
+            },
+            {
+                "Comment": "It's also providing access to reliable power and clean water to areas that would otherwise be shit outta luck.",
+                "Comment-sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "Title": "BTC Tracker is live!",
+        "Creation-Time": "2025-04-12 10:57:54",
+        "Body": "Hi everyone,   yesterday I released first version of my self-hosted BTC Tracker.. After launch I've seen some issues  I already had 2 PRs ready for authentication. and GH pages. Now it's realesed.  Feel free to play around, leave insights, issues or request for the new features.  Project page: https:wilqq-.the.github.ioBTC-Tracker(https:wilqq-the.github.ioBTC-Tracker)   Repo: https:github.comwilqq-theBTC-Tracker(https:github.comwilqq-theBTC-Tracker)  http.s:preview.redd.it1jbevc5qxdue1.png?width1289formatpngautowebps707e4b741304294b8d.06bac091827924a0baac7c.",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "BTC Tracker",
+            "Self-hosted",
+            "GitHub",
+            "Project page",
+            "Repo",
+            "Issues",
+            "Features",
+            "Authentication"
+        ],
+        "Suggested-marketing-tags": [
+            "Crypto",
+            "Blockchain",
+            "Self-hosted",
+            "Open-source",
+            "Developer",
+            "New Release",
+            "Project",
+            "Repo"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Very nice !",
+                "Comment-sentiment": "Positive"
+            },
+            {
+                "Comment": "Cool, nice job.",
+                "Comment-sentiment": "Positive"
+            },
+            {
+                "Comment": "this is honestly what I have been looking for. Ill try it tomorrow!",
+                "Comment-sentiment": "Positive"
+            }
+        ]
+    },
+    {
+        "Title": "Early Bitcoiners",
+        "Creation-Time": "2025-04-12 11:23:10",
+        "Body": "I can imagine early bitcoins who have two, three or more digit bitcoins are probably happy with their stack and not really considering DCA, since they get way less than they got years ago. What do you think? If you had 10, 20 or more BTC you would just sit on these like a hen and chill.",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "Early Bitcoiners",
+            "Stacks",
+            "DCA",
+            "Bitcoin"
+        ],
+        "Suggested-marketing-tags": [
+            "Cryptocurrency",
+            "Investment",
+            "Early Adopters"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Nice try IRS",
+                "Sentiment": "Neutral"
+            },
+            {
+                "Comment": "I used to have 14 coins. Sold at a loss when i didn't know anything about bitcoin. Now I stack, hodl, and try not to think about it",
+                "Sentiment": "Sad"
+            },
+            {
+                "Comment": "Most of them sold them too early, got scammed or lost the keys/login password",
+                "Sentiment": "Sad"
+            }
+        ]
+    },
+    {
+        "Title": "Happens EVERY TIME!",
+        "Creation-Time": "2025-04-11 18:33:09",
+        "Body": "",
+        "Sentiment": "",
+        "Key-topics-or-keywords": "",
+        "Suggested-marketing-tags": "",
+        "Top-3-comments": [
+            {
+                "comment": "Dca is freedom..",
+                "comment-sentiment": ""
+            },
+            {
+                "comment": "That mentality is hurting me too, that's why i seted buy orders and dont watch the charts so often..",
+                "comment-sentiment": ""
+            },
+            {
+                "comment": "Always!!",
+                "comment-sentiment": ""
+            }
+        ]
+    },
+    {
+        "Title": "Thanks guys!",
+        "Creation-Time": "2025-04-12 08:00:08",
+        "Body": "In for 5 weeks. Have been reading a lot here. I think i'm set now, and i love it.. thanks to you guys..! Hourly DCA with Strike - Auto withdrawal to Trezor. Seed words on steel plate - Only told my wife in case I die.. Now let it slowcook for 15 years.. Thanks for the advice everyone!",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "Hourly DCA",
+            "Strike",
+            "Auto withdrawal",
+            "Trezor",
+            "Seed words",
+            "Long-term investment"
+        ],
+        "Suggested-marketing-tags": [
+            "Crypto",
+            "Investment",
+            "Long-term",
+            "Security",
+            "Auto-investment"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Perfect."
+            },
+            {
+                "Comment": "Sounds like you took all the right advice my man! Enjoy life.."
+            },
+            {
+                "Comment": "Good for you on getting a plan! Seems solid. Though I do wonder why an hourly DCA. That seems like a lot lol. I heard the fees on strike are bad, are they? I use swissborg, good fees on there.."
+            }
+        ],
+        "comment-sentiment": [
+            "Positive",
+            "Positive",
+            "Neutral"
+        ]
+    },
+    {
+        "Title": "Can you keep selling your cheap sats? M2 is exploding and I will sell you back in few months.",
+        "Creation-Time": "2025-04-12 09:30:53",
+        "Body": "Thanks for the cheap sats the last 2 weeks guys.",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "M2",
+            "selling",
+            "cheap sats"
+        ],
+        "Suggested-marketing-tags": [
+            "Bitcoin",
+            "cryptocurrency",
+            "investment",
+            "cheap sats",
+            "M2"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "And when you sell in a few months I will buy them, because the money printers will still be running hot.."
+            },
+            {
+                "Comment": "Buying to sell in a few months, oh well do what suits you.."
+            },
+            {
+                "Comment": "Wrong. You don't sell your Bitcoin."
+            }
+        ],
+        "comment-sentiment": [
+            "Positive",
+            "Neutral",
+            "Negative"
+        ]
+    },
+    {
+        "Title": "CPI, inflation, GDP growth below expected. Unemployment, 10y yields above. You know what happens next.",
+        "Creation-Time": "2025-04-11 21:43:47",
+        "Body": "I hope not. The dollar is already unattractive and printing more will make it even more so with even less reason to buy US debt. Sure, BTC might rise, but living through an intense recession or depression will have greater effects (for me) than seeing the possibility of BYC rising. Recently, it seems more linked to TradFi and if the US and global economy dive, BTC may also.",
+        "Sentiment": "negative",
+        "Key-topics-or-keywords": [
+            "CPI",
+            "inflation",
+            "GDP growth",
+            "unemployment",
+            "10y yields",
+            "recession",
+            "depression",
+            "BTC",
+            "TradFi"
+        ],
+        "Suggested-marketing-tags": [
+            "economic-recession",
+            "crypto-market-trends",
+            "finance",
+            "inflation-concerns"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "I hope not. The dollar is already unattractive and printing more will make it even more so with even less reason to buy US debt. Sure, BTC might rise, but living through an intense recession or depression will have greater effects (for me) than seeing the possibility of BYC rising. Recently, it seems more linked to TradFi and if the US and global economy dive, BTC may also.",
+                "Sentiment": "negative"
+            },
+            {
+                "Comment": "https:www.usdebtclock.org",
+                "Sentiment": "neutral"
+            },
+            {
+                "Comment": "Keep the bops coming.",
+                "Sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "Title": "Fix the money fix the world",
+        "Creation-Time": "2025-04-11 19:17:45",
+        "Body": "This is beautiful",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Clean water"
+        ],
+        "Suggested-marketing-tags": [
+            "Cryptocurrency",
+            "Clean water initiative"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Why Tyler Durden?"
+            },
+            {
+                "Comment": "Bitcoin aside, how does anyone buy a well of water like this? Like what are the logistics of the money turning into clean water in a well in a place apparently lacking clean water?"
+            },
+            {
+                "Comment": "I love when proviledged people come in here and says 'Bitcoin doesn't solve any problems' in 2025  It's basically admission of retardation these days."
+            }
+        ],
+        "comment-sentiment": [
+            "Neutral",
+            "Neutral",
+            "Positive"
+        ]
+    },
+    {
+        "Title": "It's plum season.",
+        "Creation-Time": "2025-04-12 14:50:13",
+        "Body": "Bitcoin can't just constantly eat without stopping to take a big shit sometimes.. I have that feeling again deep down in my plums.  Bitcoin is on its way to the. Golden corral and it gets it's moneys worth!.",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Plums"
+        ],
+        "Suggested-marketing-tags": [
+            "Cryptocurrency",
+            "Golden Corral",
+            "Finance",
+            "Investing"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Which money does it get? Bitcoin is money.",
+                "Comment-sentiment": "Neutral"
+            },
+            {
+                "Comment": "Wabbit season!",
+                "Comment-sentiment": "Neutral"
+            },
+            {
+                "Comment": "Its already taken some shits. Maybe its time to rocket.",
+                "Comment-sentiment": "Positive"
+            }
+        ]
+    },
+    {
+        "Title": "Loading up on crypto futures after seeing the 74k BTC Floor prediction from 5 months back holding steady. Gonna see If I can be one of those persons who deposits 20 and wakes up with large Philanthropy Units (profits)..",
+        "Creation-Time": "2025-04-12 18:44:43",
+        "Body": "Loading up on crypto futures after seeing the 74k BTC Floor prediction from 5 months back holding steady. Gonna see If I can be one of those persons who deposits 20 and wakes up with large Philanthropy Units (profits)..",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "Crypto Futures",
+            "Bitcoin",
+            "Investment"
+        ],
+        "Suggested-marketing-tags": [
+            "#Crypto",
+            "#Bitcoin",
+            "#Investment"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Lololol 20 to make 75.",
+                "Comment-Sentiment": "Neutral"
+            },
+            {
+                "Comment": "If youre expecting to turn 20 into 1 million, think of how much of a percentage increase bitcoin is going to have to make. BTC would have to be worth upwards of 4bil a coin It's more reasonable to expect to wake up 21.63.",
+                "Comment-Sentiment": "Negative"
+            }
+        ]
+    },
+    {
+        "Title": "Post 20",
+        "Creation-Time": "2025-04-12 07:53:02",
+        "Body": "Comments: - i love this. - Its gonna be a forever roundabout cosmos.",
+        "Sentiment": "positive",
+        "Key-topics-or-keywords": [
+            "roundabout cosmos",
+            "love"
+        ],
+        "Suggested-marketing-tags": [
+            "love",
+            "cosmos",
+            "roundabout",
+            "positive"
+        ],
+        "Top-3-comments": [
+            "i love this.",
+            "Its gonna be a forever roundabout cosmos."
+        ],
+        "comment-sentiment": [
+            "positive",
+            "positive"
+        ]
+    },
+    {
+        "Title": "While you're sitting there wondering if you should buy, your USD just lost 4-5 of its value.",
+        "Creation-Time": "2025-04-11 22:27:49",
+        "Body": "Comments:.\\n- He has a point.\\n- Lol. I got.more bitcoin now than dollars haha.\\n- So did bitcoin go up or just did usd go down?.",
+        "Sentiment": "negative",
+        "Key-topics-or-keywords": [
+            "bitcoin",
+            "USD",
+            "value",
+            "investment"
+        ],
+        "Suggested-marketing-tags": [
+            "investment",
+            "cryptocurrency",
+            "value",
+            "bitcoin",
+            "USD"
+        ],
+        "Top-3-comments": [
+            {
+                "comment_body": "He has a point.",
+                "comment_sentiment": "neutral"
+            },
+            {
+                "comment_body": "Lol. I got.more bitcoin now than dollars haha.",
+                "comment_sentiment": "positive"
+            },
+            {
+                "comment_body": "So did bitcoin go up or just did usd go down?.",
+                "comment_sentiment": "neutral"
+            }
+        ],
+        "comment-sentiment": [
+            "neutral",
+            "positive",
+            "neutral"
+        ]
+    },
+    {
+        "Title": "Is this a good thing?",
+        "Creation-Time": "2025-04-12 19:23:45",
+        "Body": "Comments:.",
+        "Sentiment": null,
+        "Key-topics-or-keywords": null,
+        "Suggested-marketing-tags": null,
+        "Top-3-comments": [
+            {
+                "Comment-Text": null,
+                "Sentiment": null
+            },
+            {
+                "Comment-Text": null,
+                "Sentiment": null
+            },
+            {
+                "Comment-Text": null,
+                "Sentiment": null
+            }
+        ],
+        "comment-sentiment": null
+    },
+    {
+        "Title": "How BTC knowledge transformed my whole investment perspective.",
+        "Creation-Time": "2025-04-12 08:12:40",
+        "Body": "Six years ago I was living paycheck to paycheck with crushing student debt. Today, I'm debt-free with a healthy portfolio and actual savings. All thanks to taking a chance on Bitcoin. I still remember my coworker talking about crypto back in 2017 and me laughing it off as internet funny money. After weeks of him showing me charts and explaining the technology, I reluctantly threw in 500 I could barely afford just to shut him up. Best decision of my life. That initial investment turned into my obsession. I started researching everything I could about blockchain, decentralization, and investment strategies. I set up automatic weekly buys with whatever I could spare (20-50). Those small consistent purchases added up more than I ever imagined. When the 2021 bull run hit, my portfolio exploded. I was smart enough to take some profits (paid off 23k in student loans) but kept most invested. Even through the crash and bear market, my average buy price kept me well in the green. But the biggest change wasn't just financial - Bitcoin completely shifted my mindset. I went from someone who couldn't save a penny to someone thinking about long-term wealth building. I started learning about traditional investing, opened a Roth IRA, and even got serious about my career to increase my income. For anyone on the fence about crypto - I'm not saying throw your life savings in. But the journey of learning and small consistent investing changed everything for me. Anyone else have life-changing experiences with Bitcoin?",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Investment",
+            "Student Loans",
+            "Blockchain",
+            "Decentralization",
+            "Portfolio",
+            "Bull Run",
+            "Average Buy Price",
+            "Traditional Investing",
+            "Roth IRA",
+            "Career"
+        ],
+        "Suggested-marketing-tags": [
+            "Bitcoin Success Story",
+            "Investment Strategy",
+            "Financial Freedom",
+            "Blockchain Revolution",
+            "Long-term Wealth Building",
+            "Crypto Education",
+            "Consistent Investing",
+            "Smart Investing"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Read the Bitcoin Standard over Christmas break. Decided it sounded great. Here I am -50 seriously tho, been a coiner for years now and it literally saved me from a hell of a life. Its amazing what sound money can do, and what falling down the rabbit hole with a proper thirst and a good incentive to acquire knowledge results in.",
+                "Sentiment": "Positive"
+            },
+            {
+                "Comment": "Inspiring! Just got into btc myself, buying dips since February, I do feel like I've bought at the wrong times to start with, and in hindsight, I should have waited, but im happy knowing it hopefully will rise to above my average buy...",
+                "Sentiment": "Neutral"
+            },
+            {
+                "Comment": "Stack those SATS stay strong.",
+                "Sentiment": "Positive"
+            }
+        ],
+        "comment-sentiment": [
+            "Positive",
+            "Neutral",
+            "Positive"
+        ]
+    },
+    {
+        "Title": "Satsvsfiat.com - thank you.",
+        "Creation-Time": "2025-04-12 15:04:58",
+        "Body": "https:www.satsvsfiat.com I just want to thank and advertise for the awesome explanation of bitcoin made by Joe Bryan. His video is available in different languages and I think it's a very good video to show people who are totally unaware of bitcoin or the fiat problem at all. It's already 3 months old but maybe some of you all didn't see it yet..",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Explanation",
+            "Fiats",
+            "Joe Bryan"
+        ],
+        "Suggested-marketing-tags": [
+            "Crypto",
+            "Digital Currency",
+            "Bitcoin Education"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Great video!!!!",
+                "Sentiment": "Positive"
+            },
+            {
+                "Comment": "one of the best",
+                "Sentiment": "Positive"
+            }
+        ],
+        "comment-sentiment": [
+            "Positive",
+            "Positive"
+        ]
+    },
+    {
+        "Title": "For More Bitcoin Mining Related Content Check Out The Build-a-Mine Pod on Youtube!",
+        "Creation-Time": "2025-04-12 15:08:35",
+        "Body": "",
+        "Sentiment": null,
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Mining",
+            "YouTube"
+        ],
+        "Suggested-marketing-tags": [
+            "Cryptocurrency",
+            "Technology",
+            "Investing"
+        ],
+        "Top-3-comments": [],
+        "comment-sentiment": null
+    },
+    {
+        "Title": "Need help traveling.",
+        "Creation-Time": "2025-04-12 16:51:22",
+        "Body": "I currently hold a decent amount of btc on a ledger and every time I travel I bring it with me, I never know when Im gonna need my stack. How would you make this even safer? I dont want to get robbed of my ledger or want it to be so obvious if I get searched by customs or criminals. My seed is stamped on 2 metal plates and the copies are stored safely outside of my house. The only thing I hold is the ledger at the moment, what security measures would you add to your ledger? I was told to use the passphrase and multisig.",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "Traveling with Bitcoin",
+            "Ledger Security",
+            "Multisig",
+            "Stateless Wallets",
+            "Seed Memorization",
+            "Customs and Bitcoin"
+        ],
+        "Suggested-marketing-tags": [
+            "Bitcoin Travel",
+            "Crypto Security",
+            "Safe Bitcoin Storage",
+            "Stateless Wallets",
+            "Bitcoin Customs",
+            "Crypto Seed Security"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Get rid of the Ledger and use a stateless wallet. Those require that you punch in your mnemonic every time you want to use them. And you can optionally have them remember it. Switch to a 12-word mnemonic and memorize it. Coldcard, Jade, Seedsigner and a few others support this  Bring the wallet everywhere you go. Keep it stateless while travelling or when the risk of seizure or theft increases. If someone gets their hand on the wallet,  who cares? You only lost the wallet and your coins are safe. Turn off stateless mode when you're in a safe area and expect to transact frequently, to avoid the inconvenience of having to type in the mnemonic every time.",
+                "Sentiment": "Positive"
+            },
+            {
+                "Comment": "Memorise the seed and buy another ledger wherever you go. If you're returning, just buy another ledger and transfer 1.5x the btc you think you'll need.",
+                "Sentiment": "Neutral"
+            },
+            {
+                "Comment": "For customs it is just an USB drive, they don't care - except for countries like China, Iran etc. No real risk with the xray scanners either.",
+                "Sentiment": "Neutral"
+            }
+        ],
+        "comment-sentiment": [
+            "Positive",
+            "Neutral",
+            "Neutral"
+        ]
+    },
+    {
+        "Title": "Should be safe now, right?",
+        "Creation-Time": "2025-04-12 16:20:28",
+        "Body": "I use an Electrum wallet on my Android phone, and for the longest time I just had my seed phrase written in a notepad file on the phone itself. Had a bad feeling about it recently, and I wrote down that seed phrase on a physical piece of paper. So now if my phone suddenly dies and cannot recover, this should at least let me recover my wallet on a different device in the future, right? Update: Never thought it was an issue to have it stored the way I did. It had been that way since 2016, so I just kept doing it. I've now moved the funds to a different wallet (same phone and app though), and kept the seed phrase written down physically. Thanks for the insight.",
+        "Sentiment": "concerned",
+        "Key-topics-or-keywords": [
+            "Electrum wallet",
+            "seed phrase",
+            "notepad file",
+            "physical piece of paper",
+            "wallet recovery",
+            "security concern"
+        ],
+        "Suggested-marketing-tags": [
+            "Crypto security",
+            "Wallet management",
+            "Seed phrase storage",
+            "Digital asset protection"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Do yourself a favor and consider it compromised.",
+                "Comment-sentiment": "negative"
+            },
+            {
+                "Comment": "Consider it compromised and migrate to a new wallet.",
+                "Comment-sentiment": "negative"
+            },
+            {
+                "Comment": "If you stored a digital copy (notepad), consider it compromised. Should be easy to move to a new wallet. Only write down your seed on paper (you should really get it etched in steel). Check out BTCSessions YT for tutorials on how to move funds between wallets - recommend this video: https:www.youtube.comwatch?v9SLijVthmfElistPLe9auxmAVSdfTExsKR1oPq2rzD32XkRvindex8",
+                "Comment-sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "Title": "I have my xpub on cointracker website to track my wallet, am i cooked?",
+        "Creation-Time": "2025-04-12 18:20:02",
+        "Body": "Any implication for the convenience of profit tracking?",
+        "Sentiment": "negative",
+        "Key-topics-or-keywords": [
+            "xpub",
+            "cointracker",
+            "wallet",
+            "privacy",
+            "profit tracking"
+        ],
+        "Suggested-marketing-tags": [
+            "cryptocurrency tracking",
+            "privacy concerns",
+            "profit management"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Your coins are safe but your privacy is compromised.",
+                "Sentiment": "negative"
+            },
+            {
+                "Comment": "Super cooked!!",
+                "Sentiment": "negative"
+            }
+        ],
+        "comment-sentiment": [
+            "negative",
+            "negative"
+        ]
+    },
+    {
+        "Title": "I've actually achieved the impossible..",
+        "Creation-Time": "2025-04-11 15:22:26",
+        "Body": "Short and Sweet. I've orange pilled my gf. Not only does she ask nonstop. questions about BTC, she has made her first purchase. It's a good amount too.. I'm so proud of her. I don't have kids, but I imagine it's the same feeling that. parents get when they see their child achieve something great. Anyways, I just. wanted to share and let you guys know it is possible. Don't give up. Spread that. holy BTC gospel!.",
+        "Sentiment": "joy",
+        "Key-topics-or-keywords": [
+            "bitcoin",
+            "orange-pilling",
+            "financial advice"
+        ],
+        "Suggested-marketing-tags": [
+            "financial-education",
+            "bitcoin-adoption",
+            "investing-for-women"
+        ],
+        "Top-3-comments": [
+            "Congratulations. I have only been able to orange-pill men thus far, notably my father..",
+            "Working on my wife! Just yesterday she said, \"can we have just one conversation that does not mention the 'B-word'?\"",
+            "Meanwhile, I told my wife it was prob best to cut losses when it started to crash in 2021...and she did...she def doesn't take my financial advice anymore lol.."
+        ],
+        "comment-sentiment": [
+            "joy",
+            "frustration",
+            "humor"
+        ]
+    },
+    {
+        "Title": "Saving in Bitcoin vs. saving in ETF.",
+        "Creation-Time": "2025-04-12 08:20:48",
+        "Body": "Hey guys, so i got into an argument with a fiat lover friend, and was advocating. for a hard money standard and stating that one part of housing becoming. increasingly expensive is that people are saving their wealth in real estate,. that is hard to create, with credit that is made out of basically magic dust. He. argued that you could use diluted ETFs like MSCI World that everyone with a bank. account could save in and still outperform inflation and build up wealth. I. argued that we (in germany) have 25 taxes on capital gains which would not be. there if we could save in euro. I struggled to find other points that are not. about things like state control or anonymity. What do you think are benefits of. hard money compared to ETFs? Or why would you say bitcoin is superior in a. financial sense? Thanks for your ideas.",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "ETF",
+            "hard money standard",
+            "real estate",
+            "credit",
+            "MSCI World",
+            "taxes on capital gains",
+            "state control",
+            "anonymity"
+        ],
+        "Suggested-marketing-tags": [
+            "finance",
+            "investing",
+            "cryptocurrency",
+            "hard money",
+            "ETFs",
+            "real estate",
+            "taxes",
+            "state control",
+            "anonymity"
+        ],
+        "Top-3-comments": [
+            {
+                "comment-body": "Imagine everyone's wet dream here. And fiat is gone and everything is bitcoin.  Evertime you buy something, you number goes down, until it reaches 0.  Bitcoin doesn't fix the lack of investing knowledge. It goes up on valuation because it hasn't reached full adoption. In the end It will only keep up with true inflation. Which in all honesty... comes pretty close to real estate prices. (Just a gut feelingopinion).  If you're in Germany, I'm surprised they don't tax you BTC gains. They can do that too you know..",
+                "comment-sentiment": "negative"
+            },
+            {
+                "comment-body": "Its not that real estate is hard to create, its that its become a product of the banks and is now inherently leveraged. Five percent down mortgages borrowing against as much as you can possibly spend per month. Its silly. The materials dont cost that, the labour is fairly cheap, heck theres even lots of land around most cities..  The banks have turned housing into a product to sell loans. And people always want the most they can get, so the prices are bid up with the maximum value they can leverage   Thirty years of choking down the highest monthly payment you can, so you can outbid the Joness.",
+                "comment-sentiment": "negative"
+            },
+            {
+                "comment-body": "Your friend is partially right. It is absolutely true that stocks and shares investments made with a minimum of brain and without selling in times of crisis will allow not only to match inflation, but to prosper. Those who say otherwise and are constantly crying about 'the fiat currency that makes you poor' really understand zippo of investments, or have always been bad at  it.  However, what your guy misses is that what he is talking about is still exactly that: investments. Investments require at least the ability to stay cool in times of crisis, and this is already where most people fail. The most diversified investments like MSCI will always require at least this one ability, and again: most people just don't have it.  I have read around that more than 90 of the life yield of the average investor is determined by less than 1 of trading days: this is the crash days where everybody runs to sell like mad lemmings.  Bitcoin is very volatile for now, but the proper way of looking at it is to look at what it will become in the next decade or two: an alternative to gold that will be not more volatile than gold, which never disturbs anyone buying gold for long-term storage of wealth.  To me, this is the argument for Bitcoin: it is the modern Florin. You save in it, you put it aside, you don't look at it, it increases in value. There is no investment risk because it's not really an investment, it's pure storage of value like an old Florin or Ducat.  I don't buy the state control or anonymity advantages myself. Most normal people will buy their bitcoins in ETFs, and money laundering regulations will make total anonymity a dream. Even cold storage can be tracked.   In order to avoid all this, one needs so much work and precautions that such a person must be either a criminal, or someone at war against his own government; most people just aren't made that way, particularly Germans who are scarily obedient to the Obrigkeit (I know, I have lived in Germany many years).",
+                "comment-sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "Title": "Bitcoin is FREEDOM",
+        "Creation-Time": "2025-04-12 17:52:47",
+        "Body": "Bitcoin is FREEDOM(https:reddit.comlink1jxn4jyvideo66gkfpbqzfue1player)",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Freedom"
+        ],
+        "Suggested-marketing-tags": [
+            "Finance",
+            "Cryptocurrency",
+            "Investment",
+            "Freedom"
+        ],
+        "Top-3-comments": [
+            "You need money to get your freedom!",
+            "What caused the spike today?"
+        ],
+        "comment-sentiment": [
+            "Neutral",
+            "Neutral"
+        ]
+    },
+    {
+        "Title": "Finally Selling.",
+        "Creation-Time": "2025-04-11 11:50:33",
+        "Body": "I have been in the game for 7 years now and have turned bitcoin into my savings. account. Just landed a great job I need to move for so I need to crack open the. piggy bank.  I bought the peaks, I bought the dips - My best buy in was at 19k.. My buying power has not only been protected during that time, it has gone up. substantially. Plan on replacing every last sat I cash in, thank Satoshi for. Bitcoin!  Edit: For those concerned I'm going to miss the boat, I am selling a. fraction of my stack and I intend to replace it with my first few pay checks.. I'm not going anywhere..",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Selling",
+            "Cashing in",
+            "Replacing",
+            "Stacking"
+        ],
+        "Suggested-marketing-tags": [
+            "Crypto-Savings",
+            "Bitcoin-Investing",
+            "Financial-Freedom"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "In the same boat, I'v been holding since 2017 and never realized any gains. Life throws its punches, changes happen and its been a life saver having held for this long. I sold 50 recently, Its paid off regrettable debt built up over the years, and its paying for a move to a new country to start over. I need to thank myself for holding, and not feel bad about selling, but for me, the time is right.."
+            },
+            {
+                "Comment": "Congrats. Good luck on the new chapter.  Get back to stacking once done.  Spend and replace.."
+            },
+            {
+                "Comment": "Just as a lot of people say in this sub, it's not life changing money until you use it to change your life!"
+            }
+        ],
+        "comment-sentiment": [
+            "Positive",
+            "Positive",
+            "Positive"
+        ]
+    },
+    {
+        "Title": "Is he even legit?",
+        "Creation-Time": "2025-04-11 18:53:10",
+        "Body": "Peter Schiff says: Bitcoin was born out of the financial crisis of 2008. Ironically, the financial crisis of 2025 will kill it. Is this guy even legit?. Does anyone take him seriously? P.S. He admitted he is building his own BTC. reserve! So I guess when BTC goes up, he creates a panic for people to sell and then buys BTC.",
+        "Sentiment": "negative",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Peter Schiff",
+            "Financial crisis"
+        ],
+        "Suggested-marketing-tags": [
+            "Bitcoin",
+            "Financial crisis",
+            "Investment",
+            "Peter Schiff"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment-body": "I don't think he even believes himself anymore, its just a shtick to sell gold at this point.",
+                "Comment-sentiment": "negative"
+            },
+            {
+                "Comment-body": "No, but he gets a lot of free advertising for his gold business because people keep sticking a mic in his face for some reason.",
+                "Comment-sentiment": "neutral"
+            },
+            {
+                "Comment-body": "Does anyone that holds BTC take him seriously? Do you mean the 42nd or 473rd time he said Bitcoin was dead? If you mean the general public, the people seeking confirmation bias that already hate Bitcoin probably take him seriously.",
+                "Comment-sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "Title": "The only headline I agree with right now.",
+        "Creation-Time": "2025-04-11 17:03:12",
+        "Body": "Comments: - Remember, only invest in the SP 500 what you can afford to lose.. - I noticed today that CNBC wasn't showing Bitcoin price at all. They love to show it when it's down but today ... Nope. - And the butthurtcoiners are fudding and saying why does BTC track the stock market if it's supposed to be a hedge without realizing that it's tracking 'safer' long-term indices such as the SP 500.   They really can't stand that BTC didn't completely dump like they had hoped.",
+        "Sentiment": "Negative",
+        "Key-topics-or-keywords": [
+            "Stock market",
+            "Bitcoin",
+            "SP 500",
+            "Investment"
+        ],
+        "Suggested-marketing-tags": [
+            "Stock market trends",
+            "Bitcoin price",
+            "Investment advice"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Remember, only invest in the SP 500 what you can afford to lose.",
+                "Sentiment": "Neutral"
+            },
+            {
+                "Comment": "I noticed today that CNBC wasn't showing Bitcoin price at all. They love to show it when it's down but today ... Nope.",
+                "Sentiment": "Negative"
+            },
+            {
+                "Comment": "And the butthurtcoiners are fudding and saying why does BTC track the stock market if it's supposed to be a hedge without realizing that it's tracking 'safer' long-term indices such as the SP 500.   They really can't stand that BTC didn't completely dump like they had hoped.",
+                "Sentiment": "Negative"
+            }
+        ],
+        "comment-sentiment": [
+            "Neutral",
+            "Negative",
+            "Negative"
+        ]
+    },
+    {
+        "Title": "Less Gold More Bitcoin",
+        "Creation-Time": "2025-04-11 18:26:33",
+        "Body": "Comments: ",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Gold"
+        ],
+        "Suggested-marketing-tags": [
+            "Investing",
+            "Cryptocurrency",
+            "Finance"
+        ],
+        "Top-3-comments": [],
+        "comment-sentiment": []
+    },
+    {
+        "Title": "You're still early",
+        "Creation-Time": "2025-04-12 01:22:15",
+        "Body": "A section I drafted as part of a small book about Bitcoin for newbs. All feedback welcome! ... (the rest of the post)",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "new technology adoption",
+            "Bitcoin history",
+            "Bitcoin price",
+            "Bitcoin growth potential"
+        ],
+        "Suggested-marketing-tags": [
+            "Investing",
+            "Cryptocurrency",
+            "Bitcoin education",
+            "Financial freedom",
+            "New technology"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment-content": "Ya got a Cliffs Notes version of that?",
+                "Comment-sentiment": "Neutral"
+            },
+            {
+                "Comment-content": "I enjoyed the read, thanks for sharing.",
+                "Comment-sentiment": "Positive"
+            },
+            {
+                "Comment-content": "This was a very good read. Thank you!",
+                "Comment-sentiment": "Positive"
+            }
+        ],
+        "comment-sentiment": [
+            "Neutral",
+            "Positive",
+            "Positive"
+        ]
+    },
+    {
+        "Title": "Question",
+        "Creation-Time": "2025-04-12 19:24:23",
+        "Body": "Was a physical bitcoin ever made?",
+        "Key-topics-or-keywords": [
+            "physical bitcoin",
+            "existence of physical bitcoin"
+        ],
+        "Suggested-marketing-tags": [
+            "cryptocurrency",
+            "physical assets",
+            "digital currency"
+        ],
+        "Top-3-comments": [
+            "Yes  https:en.bitcoin.itwikiCasasciusphysicalbitcoins."
+        ],
+        "comment-sentiment": "neutral"
+    },
+    {
+        "Title": "For those nostalgic for Blockfolio.",
+        "Creation-Time": "2025-04-12 19:24:23",
+        "Body": "You can import any CSV file thanks to the import feature that parses your data. using AI.",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "Blockfolio",
+            "Import CSV",
+            "AI"
+        ],
+        "Suggested-marketing-tags": [
+            "Blockfolio",
+            "Data Import",
+            "AI",
+            "Nostalgia"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment-Text": "I miss Blockfolio too.",
+                "Comment-Sentiment": "Positive"
+            },
+            {
+                "Comment-Text": "I used to love Blockfolio, but I switched to a different app.",
+                "Comment-Sentiment": "Neutral"
+            },
+            {
+                "Comment-Text": "Blockfolio was a great app, but I've moved on.",
+                "Comment-Sentiment": "Negative"
+            }
+        ],
+        "comment-sentiment": [
+            "Positive",
+            "Neutral",
+            "Negative"
+        ]
+    },
+    {
+        "Title": "1,000,000 per BTC",
+        "Creation-Time": "2025-04-12 19:10:08",
+        "Body": "If, as many say, bitcoin will cost a million, then how is it possible and is it possible?",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Price Prediction"
+        ],
+        "Suggested-marketing-tags": [
+            "Cryptocurrency",
+            "Investing",
+            "#Bitcoin"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Supply and demand.",
+                "Comment-sentiment": "Positive",
+                "Keywords": [
+                    "Supply",
+                    "Demand"
+                ]
+            },
+            {
+                "Comment": "There is a fixed supply of bitcoins. As demand increases, so does its value. The when is determined by how quickly people around the world learn about bitcoin and start buying some.",
+                "Comment-sentiment": "Positive",
+                "Keywords": [
+                    "Bitcoin",
+                    "Supply",
+                    "Demand",
+                    "Value"
+                ]
+            },
+            {
+                "Comment": "no fucking way.",
+                "Comment-sentiment": "Negative",
+                "Keywords": [
+                    "No"
+                ]
+            }
+        ]
+    },
+    {
+        "Title": "Peter McCormick and Bedford",
+        "Creation-Time": "2025-04-12 12:40:36",
+        "Body": "Peter McCormack is trying to make Bedford a bitcoin hub, which is good. I was just wondering with all the establishments he has set up over there, football club, coffee shop and pub. Does he have something set up where you can walk in and buy bitcoin no kyc or no questions asked?.",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Bedford",
+            "Peter McCormack",
+            "football club",
+            "coffee shop",
+            "pub"
+        ],
+        "Suggested-marketing-tags": [
+            "BitcoinHub",
+            "Bedford",
+            "CryptocurrencyAdoption",
+            "PeterMcCormack"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "I have not heard him speak of that endeavor.",
+                "Comment-sentiment": "neutral"
+            },
+            {
+                "Comment": "Last time I heard him talk about it he's using it solely as a Treasury asset for each individual business. He was waiting for a simpler plug and play hardware software product before even using it in point of sale transactions.",
+                "Comment-sentiment": "negative"
+            },
+            {
+                "Comment": "I hope he considers more user-friendly options in the future."
+            }
+        ]
+    },
+    {
+        "Title": "If you think Bitcoin has no use case, explain this.",
+        "Creation-Time": "2025-04-10 21:48:03",
+        "Body": "",
+        "Sentiment": null,
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Use Case"
+        ],
+        "Suggested-marketing-tags": [
+            "Cryptocurrency",
+            "Investing",
+            "Blockchain"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Das a lot of BTC.",
+                "Sentiment": null
+            },
+            {
+                "Comment": "This better be from 2010..",
+                "Sentiment": null
+            },
+            {
+                "Comment": "rgirlsgonebitcoin used to be a thing.",
+                "Sentiment": null
+            }
+        ],
+        "comment-sentiment": [
+            null,
+            null,
+            null
+        ]
+    },
+    {
+        "Title": "CoinW Withdrawal Issues",
+        "Creation-Time": "2025-04-12 14:35:45",
+        "Body": "I have routinely withdrawn assets from CoinW Exchange until today. Today, I received a 'withdrawal operation confirmation', requesting that I verify that I initiated the withdrawal. This was after I input my trading password and Google authenticator numerals, as usual. So, there was no question about whether it was my personal transaction or not. I attempted to contact them by email after being toyed with by their AI bot. So far no response. Should I be scared and worried?",
+        "Sentiment": "negative",
+        "Key-topics-or-keywords": [
+            "CoinW",
+            "withdrawal issues",
+            "no response",
+            "scared and worried"
+        ],
+        "Suggested-marketing-tags": [
+            "Crypto exchange",
+            "withdrawal problems",
+            "customer service",
+            "scam prevention"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment-text": "CoinW.com doesn't look too good to try and invest, people are saying they're having problems withdrawing. See Trust pilot : Trustpilot reviews(https:www.trustpilot.comreviewcoinw.com).",
+                "Comment-sentiment": "negative"
+            },
+            {
+                "Comment-text": "It doesn't seem to be a scam exchange. But could be dodgy. Never heard of it. Lots of exchanges are having to conform to new government regulations about identity of wallets. Perhaps that's why the change. But why on earth did you risk putting money in an exchange that almost no one has heard of? Unless it's the only option in your country then there's no reason not to play safe with kraken or coinbase or Gemini or binance or even robinhood. If you can withdraw I'd take it all out and start elsewhere.",
+                "Comment-sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "Title": "what is a good app to buy btc, then transfer?",
+        "Creation-Time": "2025-04-12 03:16:01",
+        "Body": "i have a leverage trading account i want to deposit more funds into. ive been using an app that lets you buy btc with cash at a coinstar. it works great, but recently they starting having MONSTER fees. were talking 920 deposit to get 820 into account. what can I use, to buy and transfer btc? thank you in advance.",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "bitcoin",
+            "btc",
+            "trading account",
+            "fees"
+        ],
+        "Suggested-marketing-tags": [
+            "crypto",
+            "bitcoin trading",
+            "low-fee trading"
+        ],
+        "Top-3-comments": [
+            "Strike",
+            "Shakepay if youre in Canada they give good interest on money and a free bank too.",
+            "Strike"
+        ],
+        "comment-sentiment": [
+            "neutral",
+            "positive",
+            "neutral"
+        ]
+    },
+    {
+        "Title": "JUST IN:  Lomond School became the first UK school to accept Bitcoin for payments.",
+        "Creation-Time": "2025-04-11 10:39:09",
+        "Body": "Lomond will initially convert the payments into GBP, and will potentially build an asset reserve.  This is barely tipping a toe in the water. Surprised this is news. Wake me up when they deploy a full verification Bitcoin node on the school premises, start stacking sats as part of the treasury, and introduce a Bitcoin class to educate each and every student about the hardest money ever engineered.",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "School",
+            "Payment"
+        ],
+        "Suggested-marketing-tags": [
+            "Bitcoin",
+            "Education",
+            "Innovation",
+            "Payment"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "I think its a cool idea. It would be even better if the school incorporated bitcoin education into a curriculum.",
+                "Sentiment": "Positive"
+            },
+            {
+                "Comment": "deleted.",
+                "Sentiment": "Unknown"
+            },
+            {
+                "Comment": "Lomond will initially convert the payments into GBP, and will potentially build an asset reserve.  This is barely tipping a toe in the water. Surprised this is news. Wake me up when they deploy a full verification Bitcoin node on the school premises, start stacking sats as part of the treasury, and introduce a Bitcoin class to educate each and every student about the hardest money ever engineered.",
+                "Sentiment": "Neutral"
+            }
+        ],
+        "comment-sentiment": [
+            "Positive",
+            "Unknown",
+            "Neutral"
+        ]
+    },
+    {
+        "Title": "You understand Bitcoin.",
+        "Creation-Time": "2025-04-11 18:30:24",
+        "Body": "",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin"
+        ],
+        "Suggested-marketing-tags": [
+            "Crypto",
+            "Blockchain",
+            "Finance",
+            "Investment"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Let me know when Bitcoin Reloaded trailer drops.",
+                "Comment-sentiment": "Neutral"
+            },
+            {
+                "Comment": "built different.",
+                "Comment-sentiment": "Positive"
+            },
+            {
+                "Comment": "Nice one.",
+                "Comment-sentiment": "Positive"
+            }
+        ],
+        "comment-sentiment": [
+            "Neutral",
+            "Positive",
+            "Positive"
+        ]
+    },
+    {
+        "Title": "Bills With Bitcoin",
+        "Creation-Time": "2025-04-12 10:38:24",
+        "Body": "So I have a question that Im trying to wrap my mind around the answer. I currently have X amount of dollars in bills a month. Have a job to where I can easily pay these bills monthly and save 20 percent of paycheck a week. Which is DCA daily into Bitcoin. Im guess Im trying to justify in my brain how to DCA more into Bitcoin by taking the amount of money I owe a month on bills plus the 20 percent I already DCA daily and when a bill comes due it comes out of my bank account and then I sell those Sats to replace what was taken out of my bank account. In theory and the long run I would have more SATS than if I just did 20 percent DCA. Can anyone please let me know if this is viable? I know there will be a Bear market where I will be losing money in the short term but at the same time I will be lowering my dollar cost average doing it this way.",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "DCA",
+            "bills",
+            "Bear market",
+            "lowering dollar cost average"
+        ],
+        "Suggested-marketing-tags": [
+            "cryptocurrency",
+            "investment strategy",
+            "financial management",
+            "Bitcoin DCA"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "It’s kinda a leverage game you’re playing. Saying you put your 20 in, plus 50 extra that normally got to bill. Say that 50 is worth 1,000. BTC at the time was worth 83,000. A week goes by but now BTC is now worth 79,000, do you still sell some SATS to cover the due bills? You’d be selling at a slight loss.  You could say, over the long run you’d could eventually come out on top. But I think the  gain might be very small still. Id even say on a 1,000 extra a month, you might only make an extra 1,000 after 5 years with this method.  Risk vs reward isnt really there.  Just do DoorDash twice a week, could put an extra 200 in easy if you’re in a good area for it."
+            },
+            {
+                "Comment": "Buy more Bitcoin and pay your bills with Bitcoin. Soon, when your bank and other payment engines will accept it. Also probably better to get paid in Bitcoin."
+            },
+            {
+                "Comment": "You can DCA and pay bills with Strike. I started using it in January. Its a great product and the fees are low. (Im in the US)"
+            }
+        ],
+        "comment-sentiment": [
+            "Negative",
+            "Positive",
+            "Positive"
+        ]
+    },
+    {
+        "Title": "Volatility explained.",
+        "Creation-Time": "2025-04-11 06:47:27",
+        "Body": "My dad's a bitcoin farmer. I remember asking him for 20, and he said, '26, what could you possibly need 17 for?'",
+        "Sentiment": null,
+        "Key-topics-or-keywords": "Bitcoin, Volatility, Farming",
+        "Suggested-marketing-tags": [
+            "Cryptocurrency",
+            "Volatility",
+            "Investing"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "My dad told me 1  1. He is very boring."
+            },
+            {
+                "Comment": "Some will get the joke."
+            },
+            {
+                "Comment": "I play dice games so I know something about volatility. Would you rather roll 2d12 or 4d6?"
+            }
+        ],
+        "comment-sentiment": null
+    },
+    {
+        "Title": "New invester.",
+        "Creation-Time": "2025-04-12 04:07:59",
+        "Body": "Hey, I'm 18 and I'm starting to get into Bitcoin and stocks. I've bought down 10.30 on Bitcoin and 5 on SPDR Gold Trust. To be honest, I have no clue or knowledge on what I'm doing. I would like to though. If someone could give me some tips or even kinda train me, it would be much appreciated.",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "stocks",
+            "SPDR Gold Trust",
+            "investing",
+            "tips",
+            "training"
+        ],
+        "Suggested-marketing-tags": [
+            "investment",
+            "stockmarket",
+            "cryptocurrency",
+            "newinvester",
+            "financialliteracy"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Thing number one: Know what you are buying and what makes it have value. 2nd: Buy with money you do not need in a short time horizon Last thing: ignore price metrics.",
+                "Sentiment": "neutral",
+                "Key-topics-or-keywords": [
+                    "investing",
+                    "knowledge",
+                    "money",
+                    "time",
+                    "price"
+                ]
+            },
+            {
+                "Comment": "And for anything you are considering for the long term: device a DCA strategy with amounts that you can miss weekly or monthly.",
+                "Sentiment": "neutral",
+                "Key-topics-or-keywords": [
+                    "DCA",
+                    "long-term",
+                    "strategy",
+                    "amounts",
+                    "miss"
+                ]
+            },
+            {
+                "Comment": "Dont worry about some dips, its always a new occasion to buy some more.",
+                "Sentiment": "neutral",
+                "Key-topics-or-keywords": [
+                    "dips",
+                    "new",
+                    "occasion",
+                    "buy"
+                ]
+            }
+        ],
+        "comment-sentiment": [
+            "neutral",
+            "neutral",
+            "neutral"
+        ]
+    },
+    {
+        "Title": "I remember this being the first time I heard about Bitcoin and thinking it was too late to invest....",
+        "Creation-Time": "2025-04-12 12:14:30",
+        "Body": "This post was about the author remembering the first time they heard about Bitcoin and thinking it was too late to invest. However, the post did not express a specific sentiment, so no sentiment analysis can be provided. The key topics or keywords mentioned in the post are 'Bitcoin' and 'investment'. Based on these topics, suggested marketing tags can be 'cryptocurrency' and 'investing'. The top 3 comments in the post are 'Holy guac.', 'Miss the days when Youtube was about real content instead of lame ass podcast bros everywhere.', and 'Because it's untraceable!!'. However, since these comments are not relevant to the topic of the post, no sentiment analysis or marketing tags can be provided for them.",
+        "Sentiment": null,
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "investment"
+        ],
+        "Suggested-marketing-tags": [
+            "cryptocurrency",
+            "investing"
+        ],
+        "Top-3-comments": [
+            "Holy guac.",
+            "Miss the days when Youtube was about real content instead of lame ass podcast bros everywhere.",
+            "Because it's untraceable!!"
+        ],
+        "comment-sentiment": null
+    },
+    {
+        "Title": "At my local zoo you can buy food for the monkeys with bitcoin and get a 21 discount.",
+        "Creation-Time": "2025-04-11 10:30:26",
+        "Body": "I visited my local zoo today and discovered something unexpected and honestly pretty cool. Theyve set up a system where you can buy enrichment food for the monkeys and if you pay with Bitcoin, you actually get a 21 discount. The sign is attached directly to the monkey enclosure and includes a QR code. Its a small step, but its awesome to see crypto adoption even in places like zoos. Imagine feeding monkeys and helping crypto go mainstream at the same time. Has anyone else seen similar crypto integrations in unusual places?.",
+        "Sentiment": 0.5,
+        "Key-topics-or-keywords": [
+            "crypto adoption",
+            "bitcoin",
+            "monkey enrichment food"
+        ],
+        "Suggested-marketing-tags": [
+            "cryptocurrency",
+            "bitcoin",
+            "monkey enrichment",
+            "crypto adoption",
+            "tech-savvy",
+            "zoo experience"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "First monkeys... next stop: central banks.",
+                "Comment-sentiment": 0.5
+            },
+            {
+                "Comment": "Theyre teaching the monkeys new-age capitalism? They better be paying taxes.",
+                "Comment-sentiment": -0.5
+            },
+            {
+                "Comment": "geil! in welcher stadt is das?",
+                "Comment-sentiment": 0.0
+            }
+        ],
+        "comment-sentiment": [
+            0.5,
+            -0.5,
+            0.0
+        ]
+    },
+    {
+        "Title": "Bitcoin Optech Newsletter 349",
+        "Creation-Time": "2025-04-12 01:24:59",
+        "Body": "This weeks newsletter describes a proposal for speeding up Bitcoin Core initial block download, with a proof-of-concept implementation that shows a roughly 5x speed up compared to Bitcoin Cores defaults. Also included are our regular sections summarizing a Bitcoin Core PR Review Club meeting, announcing new releases and release candidates, and describing notable changes to popular Bitcoin infrastructure projects.",
+        "Sentiment": "positive",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Optech",
+            "Newsletter",
+            "proposal",
+            "speeding up",
+            "Bitcoin Core",
+            "initial block download",
+            "proof-of-concept",
+            "implementation",
+            "5x speed up",
+            "Bitcoin Core PR Review Club meeting",
+            "new releases",
+            "release candidates",
+            "notable changes",
+            "popular Bitcoin infrastructure projects"
+        ],
+        "Suggested-marketing-tags": [
+            "Bitcoin",
+            "Blockchain",
+            "Newsletter",
+            "Technical",
+            "Proposal",
+            "Speed",
+            "Performance",
+            "Bitcoin Core",
+            "Infrastructure"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "This is great news for Bitcoin users who are looking to speed up their initial block download time.",
+                "Comment-sentiment": "positive"
+            },
+            {
+                "Comment": "I have been using the proof-of-concept implementation and it has significantly reduced the time it takes to download the initial block.",
+                "Comment-sentiment": "positive"
+            },
+            {
+                "Comment": "I appreciate the detailed summary of the Bitcoin Core PR Review Club meeting and the notable changes to popular Bitcoin infrastructure projects.",
+                "Comment-sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "Title": "Income and Bitcoin",
+        "Creation-Time": "2025-04-11 22:21:59",
+        "Body": "Apart from Strategy dividends and Bitcoin jobs, how can someone live off of Bitcoin? I’ve heard of taking loans against it but I’m yet to understand how. Anyone who can give insights into this?",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Income",
+            "Loans",
+            "Margin Spending",
+            "Options",
+            "Celsius"
+        ],
+        "Suggested-marketing-tags": [
+            "CryptoInvesting",
+            "BitcoinIncome",
+            "CryptoLoans",
+            "MarginTrading",
+            "OptionsTrading"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "First you have to amass enough bit that you can live off it.  Assuming you didn’t purchase a shitload in the early days, you’re still left with the plebe struggle: build your wealth slowly until it’s a noteworthy amount.  Most of what’s going on these days in bit loans requires 2x bit-to-fiat, and the potential for being liquidated.  So you have to have a stake 2x your desired fiat outcome with the risk of losing your cheese if the bit price gets volatile.  I, personally, am not willing to stake my coin on that risky bet.  Im on a mission to stack, not lose, coin.  I think were probably a few years premature of having good mechanisms for the layman exercising that kind of option.  Is it possible? Certainly.  Would I advise it? Hell no.  Come back in a year or three and the answer might be different.",
+                "Sentiment": "Negative"
+            },
+            {
+                "Comment": "Buy spot price etf and use margin spending. Sell options on ibit to gain premium",
+                "Sentiment": "Neutral"
+            },
+            {
+                "Comment": "Celsius made great BTC loans. Great for bankruptcy lawyers to gather a lot of BTC",
+                "Sentiment": "Negative"
+            }
+        ],
+        "comment-sentiment": [
+            "Negative",
+            "Neutral",
+            "Negative"
+        ]
+    },
+    {
+        "Title": "We have Bitcoin at home.",
+        "Creation-Time": "2025-04-11 11:33:59",
+        "Body": "https:preview.redd.it5nid9h59z6ue1.png?width500formatpngautowebpsb310bab502b5939.5e7f6a68761c21be2ab94f1fe",
+        "Sentiment": "positive",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "WEF",
+            "central bank"
+        ],
+        "Suggested-marketing-tags": [
+            "crypto",
+            "finance",
+            "WEF",
+            "central bank",
+            "bitcoin"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Dark voice  \"You have reached your allocated meat purchases for the week. Attempt to buy meat again before the end of the week, and you'll be deducted 20 WEF coins\"  Friendly voice  \"Try our WEF brand cockroach protein powder. Our genetically modified bugs provide all the nutrients your body needs and more\""
+            },
+            {
+                "Comment": "Christine Lagarde is such a dinosaur. Desperately trying to hold onto her central bank powers by decimating the freedom of future generations under the control of a CBDC.  Pure evil.  The good news is bitcoin will win in the end.."
+            },
+            {
+                "Comment": "I dont get it. Only in the worst of my nightmares would Lagarde be my mom.."
+            }
+        ],
+        "Comment-Sentiment": [
+            "negative",
+            "negative",
+            "negative"
+        ]
+    },
+    {
+        "Title": "Some interesting tid-bits on where early financial terms came from.",
+        "Creation-Time": "2025-04-11 17:09:08",
+        "Body": "The history of money is so important for understanding where we are in today's monetary system. I find it interesting where the meanings for a lot of our financial terms come from. For instance; salt was used so much as money originally, that it is the root for the word \"salary\" which comes from salarium, meaning payment in salt. Banco means bench or table. Medieval moneylenders sat at benches. If a banker failed, their bench was broken banca rotta bankrupt.. Credit is Latin and means \"to believe or trust\" as in you believe someone will pay you back. Fiat means \"let it be done\" or essentially I declare. Meaning, I declare this has value. Lets make a sentence and translate it: \"Fiat money is created using credit\" roughly translates into: \"I declare this newly made money has value and you believe that it will be paid back eventually\" Cheers and have a great weekend :).",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "history of money",
+            "financial terms",
+            "salary",
+            "bankruptcy",
+            "credit",
+            "fiat money"
+        ],
+        "Suggested-marketing-tags": [
+            "financial-history",
+            "economic-terms",
+            "monetary-system"
+        ],
+        "Top-3-comments": [
+            "Its posts like this that make me love this community :)"
+        ],
+        "comment-sentiment": "Positive"
+    },
+    {
+        "Title": "BTC Tracker (selfhosted), would anyone be intrested?",
+        "Creation-Time": "2025-04-11 18:56:19",
+        "Body": "BTC Tracker(https:preview.redd.iti63kfw2j89ue1.png?width1475formatpngautowebps1.177f8bf5227bfa20339fe998eaeea6ae31ea49) Hi guys, I am developing after hours. open source BTC tracker, I have base layers but it still needs some work.. Basically, it's an web app where you can addimport your buysell transactions. (ps. I will never implement the sell function haha) of BTC and we can track. current price, PL of each purchase etc. Working on internal imported data, you. don't need to connect anything (walletexchangeetc). Just to keep my motivation,. would anyone will be actually intrested to run it on his serverhomelabpersonal. PC? Installation will be simple, just run npm app (its written mainly in JS. with node) or run docker container. Some screenshots in the attachments :). GITHUB: https:github.comwilqq-theBTC-Tracker(https:github.comwilqq-theBTC-. Tracker) Enjoy playing around :D https:preview.redd.itzzaxs44v59ue1.png?width1.402formatpngautowebpsa7ebce5ca6a75fb0f05454b59d6fd9e274949823 https:preview.redd.itf7lrbdhx59ue1.png?width1410formatpngautowebpsd0dccfac4015b638d0fea18170dffc8.16d6c7daf https:preview.redd.itufdvjady59ue1.png?width1480formatpngautowebps3c7.8bf568ad93fe81ddbebf4d985d5ed0c39903e.",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "BTC Tracker",
+            "self-hosted",
+            "web app",
+            "transactions",
+            "price",
+            "profit loss",
+            "internal data",
+            "installation",
+            "npm app",
+            "docker container"
+        ],
+        "Suggested-marketing-tags": [
+            "Crypto",
+            "Bitcoin",
+            "Blockchain",
+            "Finance",
+            "Investing",
+            "Self-hosted",
+            "Open Source",
+            "Web Application",
+            "Transaction Tracking",
+            "Price Tracking",
+            "Profit Loss"
+        ],
+        "Top-3-comments": [
+            {
+                "comment_text": "Would love to give it a shot. Linux user, though. Any GitHub repo available? Nice job!"
+            },
+            {
+                "comment_text": "Yes"
+            },
+            {
+                "comment_text": "Very nice. Keep it going. Looking forward to some github links!"
+            }
+        ],
+        "comment-sentiment": [
+            "Positive",
+            "Positive",
+            "Positive"
+        ]
+    },
+    {
+        "Title": "Floridas Bitcoin Reserve Bill Unanimously Passes Subcommittee Vote.",
+        "Creation-Time": "2025-04-11 20:42:12",
+        "Body": "Comments:",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin Reserve Bill",
+            "Florida",
+            "Subcommittee Vote"
+        ],
+        "Suggested-marketing-tags": [
+            "Cryptocurrency",
+            "Government",
+            "Finance"
+        ],
+        "Top-3-comments": [],
+        "comment-sentiment": []
+    },
+    {
+        "Title": "Bitcoin saved my life.",
+        "Creation-Time": "2025-04-11 01:20:01",
+        "Body": "I once thought I had to die a martyr. Now I know I dont have to do anything. Just stack sats. The world is broken and almost always has been. I thought maybe it cant be fixed afterall. I used to cry. I got depressed to the point of almost killing myself. But I was too stubborn and afraid. I thought meaning came from struggle. I thought life is supposed to be like this. But then I found bitcoin. Tbh, I just came for the quick buck. But then I studied it for about half a year. All day long, I did nothing else. And my life changed. I just could not believe it. The more I studied, the more questions occurred. But the more I learned, the clearer the picture got. I feel reborn. It was almost a spiritual journey. Just felt like sharing this. Since no one of my family or friends can relate, I thought some of you can. I wish you all the best and a wonderful life.",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Life-changing experience",
+            "Hope",
+            "Spiritual journey"
+        ],
+        "Suggested-marketing-tags": [
+            "Life-changing",
+            "Financial freedom",
+            "Investing in Bitcoin",
+            "Spiritual growth",
+            "Hope for the future"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "You saw that the monetary system was stealing your Time.",
+                "Sentiment": "Positive"
+            },
+            {
+                "Comment": "I felt the same way when I truly understood Bitcoins purpose. It gave me purpose and hope.",
+                "Sentiment": "Positive"
+            },
+            {
+                "Comment": "Bro, its the journey that will keep on giving. I was at my lowest ever in 2017. I will spare you the details. Found BTC, went down that rabbit hole, and still deep in it. Now, 8 years later, Im doing better than I had ever imagined I would. Bitcoin and this technology actually gives me hope for the future, hope I did not have before. Came for the money, fell in love with the technology and the future potential. Keep on stacking my man, dont give up and believe in yourself.",
+                "Sentiment": "Positive"
+            }
+        ],
+        "comment-sentiment": [
+            "Positive",
+            "Positive",
+            "Positive"
+        ]
+    },
+    {
+        "Title": "Your Daily Bitcoin Breakdown newsletter is now live. Check out todays Top Stories and a sneak peek at the latest Quick Bits snippets. Full issue link is in the comments.",
+        "Creation-Time": "2025-04-11 12:38:12",
+        "Body": "",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Breakdown",
+            "Newsletter",
+            "Top Stories",
+            "Quick Bits",
+            "HODL",
+            "Buy"
+        ],
+        "Suggested-marketing-tags": [
+            "Cryptocurrency",
+            "Market Analysis",
+            "Newsletter",
+            "Bitcoin"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "https:www.btcbreakdown.compissue-221",
+                "Sentiment": "Neutral"
+            },
+            {
+                "Comment": "Summary: Buy and HODL!",
+                "Sentiment": "Positive"
+            },
+            {
+                "Comment": "Thanks for sharing bro, I've just bought some sats!",
+                "Sentiment": "Positive"
+            }
+        ],
+        "comment-sentiment": [
+            "Neutral",
+            "Positive",
+            "Positive"
+        ]
+    },
+    {
+        "Title": "While driving through curacao.",
+        "Creation-Time": "2025-04-10 22:48:37",
+        "Body": "Comments:\n- Who in their right mind would give up 1 BTC for a Beamer.\n- That is the power of bitcoin.  Shows the dollar in the same period.\n- Next: 1 BTC 1 house.",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Curaçao",
+            "Car",
+            "House"
+        ],
+        "Suggested-marketing-tags": [
+            "CryptoTravel",
+            "BitcoinLuxuryLife"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Who in their right mind would give up 1 BTC for a Beamer.",
+                "Sentiment": "negative"
+            },
+            {
+                "Comment": "That is the power of bitcoin.  Shows the dollar in the same period.",
+                "Sentiment": "positive"
+            },
+            {
+                "Comment": "Next: 1 BTC 1 house.",
+                "Sentiment": "neutral"
+            }
+        ],
+        "comment-sentiment": [
+            "negative",
+            "positive",
+            "neutral"
+        ]
+    },
+    {
+        "Title": "Nothing to see here..",
+        "Creation-Time": "2025-04-10 16:07:52",
+        "Body": "No one knows what it means, but its provocative.",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "Nothing to see here",
+            "Provocative",
+            "Hoovering up money"
+        ],
+        "Suggested-marketing-tags": [
+            "Finance",
+            "Investment",
+            "Hoarding",
+            "Provocative"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "So they buy big, wait for it to suck up a few percents of interest then sell again? They're just hoovering up money at this point.",
+                "Comment-Sentiment": "Negative"
+            },
+            {
+                "Comment": "Ay, caramba!",
+                "Comment-Sentiment": "Neutral"
+            }
+        ],
+        "comment-sentiment": [
+            "Negative",
+            "Neutral"
+        ]
+    },
+    {
+        "Title": "Is having 0.28 btc good at this point for a comfortable life in the future?",
+        "Creation-Time": "2025-04-11 02:18:04",
+        "Body": "As the title goes. Holding approx 0.28 btc and wondering in the future if I keep dcaing whether Im on a good road to having a comfortable life by 55? I am currently 37F.",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "bitcoin",
+            "dca",
+            "comfortable life",
+            "future"
+        ],
+        "Suggested-marketing-tags": [
+            "bitcoin-investing",
+            "long-term-investing",
+            "financial-future"
+        ],
+        "Top-3-comments": [
+            {
+                "Text": "Keep buying the dips until your 55 and you'll be fine.",
+                "Sentiment": "positive"
+            },
+            {
+                "Text": "Nobody knows, thats such an ambiguous question. What do YOU believe the future of BTC is? What are you spending it on currently day to day to keep it alive?",
+                "Sentiment": "neutral"
+            },
+            {
+                "Text": "As long as fiat currency will allow, Ill be buying BTC for ever. Using BTC as a savings account pretty much. You hold a little more than I do. I believe my holding will be worth a lot in 10years, I plan to retire then. Just keep stacking. Those that come late to this will be lucky to hold 0.0001 BTC. just so Im clear, this is my opinion of BTC.",
+                "Sentiment": "positive"
+            }
+        ],
+        "comment-sentiment": [
+            "positive",
+            "neutral",
+            "positive"
+        ]
+    },
+    {
+        "Title": "Someone stole everything from my ledger.",
+        "Creation-Time": "2025-04-10 17:40:31",
+        "Body": "I have seen this kind of topic a hundred times. I never though I would be the author of one of them though. I have been in crypto since 2017. I read everything I could on it before making my first purchase. I bought a ledger a long time ago as it was one of the most secure item to hold my cryptos. All my crypto-savings were on it. A couple days ago I saw that my PayPal account has been hacked and someone stole 1000 by making a purchase with my credit card. I called my bank, cancelled it and got refunded. This morning I went on the ledger app to check my btc and saw 3 instead of the 30k (0.3BTC) I had. And then everything clicked. Someone did not hacked my PayPal but my iCloud. And somehow found my encrypted file with some seeds on it. It is my entire fault and I am the only responsible for what happened to me. I guess this message is to warn everyone. Sometimes your crypto is secured, but something else isnt and they hack from there. To the person who stole my money, have fun with it, I personally hope that you will choke on it and die slowly.  Edit: guys I know I was dumb. Dont rub it in. To answer the most common comment, yes I know that you dont write your seed phrase online. But when I bought my ledger in 2018 I didnt know. And I did not even remember I did that. Like I said: its on me.",
+        "Sentiment": "negative",
+        "Key-topics-or-keywords": [
+            "crypto",
+            "ledger",
+            "hack",
+            "iCloud",
+            "seed phrase"
+        ],
+        "Suggested-marketing-tags": [
+            "crypto security",
+            "ledger",
+            "hacking prevention",
+            "iCloud security",
+            "seed phrase safety"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "somehow found my encrypted file with some seeds on it. It has nothing to do with Ledger.",
+                "Comment-sentiment": "neutral"
+            },
+            {
+                "Comment": "My condolences. This is a good reminder to all to keep your seed phrase safe and offline.",
+                "Comment-sentiment": "sympathetic"
+            },
+            {
+                "Comment": "You put you seed phrase on the cloud? Yikes. RIP.",
+                "Comment-sentiment": "critical"
+            }
+        ],
+        "comment-sentiment": [
+            "neutral",
+            "sympathetic",
+            "critical"
+        ]
+    },
+    {
+        "Title": "The U.S. Dollar Index (DXY) is dumping. What does this mean for Bitcoin?",
+        "Creation-Time": "2025-04-10 18:58:01",
+        "Body": "The dollar is dumping because the US 10 year yield is spiking higher. The 10 year yield rising is due to someone forcibly dumping US treasuries (when bonds lose demand yields rise) so this loss of confidence in the bond market translates into a loss of confidence in the currency itself. They are dumping treasuries because something in the financial market broke (maybe a big bank or china dumping US treasuries). This was all triggered by the tariff mess whiplashing the markets. So the tariff mess caused something to break which is causing bonds to be sold and yields to rise, which is then causing a loss of confidence in the value of the dollar leading the DXY index to drop. Usually in normal circumstances rising bond yields would entice bond buying and in turn make the dollar stronger, but currently rising yields are not a sign of strength they are a sign of bonds being forcibly sold which is pointing to a loss of confidence in the bond market and therefore a loss of confidence in the dollar. Historically the US bond market along with the dollar have been viewed as the reserve safe haven currency, meaning in times of market turmoil bond yields and the currency should rise together. Yields rising while the currency falls is something only seen in weak emerging market currencies. This all points to a shift in the global financial system. The market is no longer treating the dollar like a safe haven, they are now treating it like a failing emerging market currency. If people are no longer running towards the dollar then they need to find other safe havens like gold and bitcoin. TLDR; as the dollar index falls bitcoin will rise.",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "Dollar Index",
+            "Bitcoin",
+            "Financial market",
+            "Bond yields",
+            "Treasuries",
+            "Global financial system"
+        ],
+        "Suggested-marketing-tags": [
+            "Financial market update",
+            "Bitcoin potential",
+            "Dollar Index analysis",
+            "Emerging market trends"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "This means that the dollar is weaker in comparison to other groups of currencies. Also, imports become more expensive, and the U.S. will earn less from exports. Bitcoin should go Up in the long run.",
+                "Comment-sentiment": "Positive"
+            },
+            {
+                "Comment": "That you get less btc for your dollar.",
+                "Comment-sentiment": "Neutral"
+            },
+            {
+                "Comment": "The dollar is dumping because the US 10 year yield is spiking higher. The 10 year yield rising is due to someone forcibly dumping US treasuries (when bonds lose demand yields rise) so this loss of confidence in the bond market translates into a loss of confidence in the currency itself. They are dumping treasuries because something in the financial market broke (maybe a big bank or china dumping US treasuries). This was all triggered by the tariff mess whiplashing the markets. So the tariff mess caused something to break which is causing bonds to be sold and yields to rise, which is then causing a loss of confidence in the value of the dollar leading the DXY index to drop. Usually in normal circumstances rising bond yields would entice bond buying and in turn make the dollar stronger, but currently rising yields are not a sign of strength they are a sign of bonds being forcibly sold which is pointing to a loss of confidence in the bond market and therefore a loss of confidence in the dollar. Historically the US bond market along with the dollar have been viewed as the reserve safe haven currency, meaning in times of market turmoil bond yields and the currency should rise together. Yields rising while the currency falls is something only seen in weak emerging market currencies. This all points to a shift in the global financial system. The market is no longer treating the dollar like a safe haven, they are now treating it like a failing emerging market currency. If people are no longer running towards the dollar then they need to find other safe havens like gold and bitcoin. TLDR; as the dollar index falls bitcoin will rise.",
+                "Comment-sentiment": "Positive"
+            }
+        ]
+    },
+    {
+        "Title": "Continuing to Forge its own path..",
+        "Creation-Time": "2025-04-10 23:18:18",
+        "Body": "Comments:\n- The amount of bullish news has been insane lately. When the world calms TF down over Tariffs, Bitcoin is going parabolic..\n- Texas did this a month ago.\n- Yeah  the world has lost trust in the US  it might drag bitcoin down with it unfortunately.",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Tariffs",
+            "Texas"
+        ],
+        "Suggested-marketing-tags": [
+            "Cryptocurrency",
+            "Investment",
+            "Economy"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "The amount of bullish news has been insane lately. When the world calms TF down over Tariffs, Bitcoin is going parabolic..",
+                "Comment-sentiment": "Positive"
+            },
+            {
+                "Comment": "Texas did this a month ago.",
+                "Comment-sentiment": "Neutral"
+            },
+            {
+                "Comment": "Yeah  the world has lost trust in the US  it might drag bitcoin down with it unfortunately.",
+                "Comment-sentiment": "Negative"
+            }
+        ],
+        "Subreddit": "Cryptocurrency"
+    },
+    {
+        "Title": "Daily Discussion, April 11, 2025",
+        "Creation-Time": "2025-04-11 06:08:56",
+        "Body": "Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or rBitcoinnew which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread(https:www.reddit.comrBitcoincomments1jvrwxclightningthursdayap.ril102025explorethe) for unanswered questions.",
+        "Sentiment": "positive",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "discussion",
+            "Stack sats or slavery",
+            "historical prices",
+            "market cap",
+            "block height",
+            "block reward",
+            "halving",
+            "nodes",
+            "hashrate",
+            "trading volume",
+            "transactions",
+            "fees",
+            "UTXOs",
+            "circulating supply",
+            "companies",
+            "governments",
+            "DeFi",
+            "ETFs",
+            "financially"
+        ],
+        "Suggested-marketing-tags": [
+            "crypto",
+            "investment",
+            "finance",
+            "tech",
+            "Bitcoin",
+            "halving",
+            "blockchain",
+            "mining",
+            "UTXOs",
+            "trading",
+            "price analysis"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Stocks are red. Bitcoin is green. Stack sats or slavery. Theres no in-between.",
+                "Comment-sentiment": "positive"
+            },
+            {
+                "Comment": "Historical Bitcoin prices for today, April 11th:  2025 - 82,079  2024 - 70,061  2023 - 30,235  2022 - 39,522  2021 - 60,205  2020 - 6,859  2019 - 5,064  2018 - 6,968  2017 - 1,205  2016 - 422  2015 - 237  2014 - 435  2013 - 124.9  2012 - 4.9  2011 - 0.80  Additional Stats:  Bitcoin's current market cap is 1.63 trillion.  Bitcoin's current block height is 891932; with the average block time for the last 7 days being 9.58 minutes.  Bitcoin's current block reward is 3.125, which is worth 256,498 per block.  The next Bitcoin halving is anticipated to happen between 26-Mar-2028 to 20-Apr-2028 (within 158,068 blocks); the block reward will fall to 1.5625.  There are currently 21,949 reachable Bitcoin nodes.  Bitcoin's average daily hashrate for the last 7 days is 899 exahashes per second.  Bitcoin's average daily trading volume for the last 7 days is 52.05 billion.  Bitcoin's average daily number of transactions for the last 7 days is 330,849.  Bitcoin's average transaction fee for the last 7 days is 6.21 satsVB, with the average fee's USD amount being 1.38; with the median values being 1.56 satsVB  0.35 respectively.  There are currently 19.85M  in circulation, leaving 1.15M to be mined.  There are currently 3.15M  held by companies, governments, DeFi, and ETFs, representing 15.88 of circulating supply.  There are currently 54,834,986 nonzero Bitcoin addresses that contain 173.89M UTXOs.  Bitcoin's average daily price from 18-Jul-2010 to 11-Apr-2025 is 15,451.  Bitcoin's average daily price for the year 2025 is 92,093.  1 US Dollar () currently equals: 1,218 satoshis; making 1 penny equal 12.18 sats.  Bitcoin's minimum (closing) price for the year 2025 was 76,271.95 on 08-Apr-2025.  Bitcoin's maximum (closing) price for the year 2025 was 106,146.27 on 21-Jan-2025.  Bitcoin's minimum (intraday) price for the year 2025 was 74,436.68 on 07-Apr-2025.  Bitcoin's maximum (intraday) price for the year 2025 was 109,114.88 on 20-Jan-2025.  Bitcoin's largest daily decrease for the year 2025 was -8,182.68 on 03-Mar-2025.  Bitcoin's largest daily increase for the year 2025 was 8,216.44 on 02-Mar-2025.  Bitcoin's all-time high (intraday) was 109,114.88 on 20-Jan-2025. Bitcoin is down 24.78 from the ATH.  Bitcoin has reached at an all-time high 1 time in 2025.  It has been 81 days since the last ATH.",
+                "Comment-sentiment": "neutral"
+            },
+            {
+                "Comment": "Thank you Satoshi. Sanity and peace of mind (financially) in a very fucked up world.",
+                "Comment-sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "Title": "Sitting chill while everyone around me panics..its called DCA!",
+        "Creation-Time": "2025-04-10 20:46:17",
+        "Body": "Comments:.\n- I, too, dollar cost autism.\n- Hahahahaha,  so true.\n- Lol.",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "DCA",
+            "Chill",
+            "Panic"
+        ],
+        "Suggested-marketing-tags": [
+            "Investing",
+            "Finance",
+            "Crypto",
+            "Stocks"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "I, too, dollar cost autism.",
+                "Sentiment": "Positive"
+            },
+            {
+                "Comment": "Hahahahaha,  so true.",
+                "Sentiment": "Positive"
+            },
+            {
+                "Comment": "Lol.",
+                "Sentiment": "Neutral"
+            }
+        ],
+        "comment-sentiment": [
+            "Positive",
+            "Positive",
+            "Neutral"
+        ]
+    },
+    {
+        "Title": "Bitcoin Optech Newsletter 349",
+        "Creation-Time": "2025-04-11 12:40:57",
+        "Body": "Comments:.\\n- SwiftSync speedup for initial block download: Sebastian Falbesoner posted to Delving Bitcoin a sample implementation and performance results for SwiftSync, an idea proposed by Ruben Somsen during a recent Bitcoin Core developers meeting and later posted to the mailing list. As of writing, the most recent results posted in the thread show a 5.28x speedup of initial block download (IBD) over Bitcoin Cores default IBD settings (which uses assumevalid but not assumeUTXO), reducing the initial sync time from about 41 hours to about 8 hours.  These people are wizards.  It seems so simple when it's explained..\\n- Thanks.",
+        "Sentiment": "positive",
+        "Key-topics-or-keywords": [
+            "SwiftSync",
+            "initial block download",
+            "Bitcoin Core developers meeting",
+            "performance results"
+        ],
+        "Suggested-marketing-tags": [
+            "Bitcoin",
+            "blockchain",
+            "technology",
+            "speedup",
+            "development"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "SwiftSync speedup for initial block download: Sebastian Falbesoner posted to Delving Bitcoin a sample implementation and performance results for SwiftSync, an idea proposed by Ruben Somsen during a recent Bitcoin Core developers meeting and later posted to the mailing list. As of writing, the most recent results posted in the thread show a 5.28x speedup of initial block download (IBD) over Bitcoin Cores default IBD settings (which uses assumevalid but not assumeUTXO), reducing the initial sync time from about 41 hours to about 8 hours.  These people are wizards.  It seems so simple when it's explained.",
+                "Comment-Sentiment": "positive"
+            },
+            {
+                "Comment": "Thanks",
+                "Comment-Sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "Title": "Satoshi Nakamoto Mystery Explained by AI.",
+        "Creation-Time": "2025-04-12 14:57:40",
+        "Body": "AI Confirms the Real Satoshi Nakamoto  And a New FOIA Lawsuit Could Prove It.",
+        "Sentiment": 0,
+        "Key-topics-or-keywords": [
+            "AI",
+            "Satoshi Nakamoto",
+            "FOIA Lawsuit",
+            "Dorian S. Nakamoto"
+        ],
+        "Suggested-marketing-tags": [
+            "AI",
+            "Cryptocurrency",
+            "Mystery",
+            "Legal"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment-body": "Garbage in. Garbage out..",
+                "Comment-sentiment": -1
+            },
+            {
+                "Comment-body": "Dorian is my favorite Satoshi, hands down. He even attended Bitcoin Miami in 2021, took photos with random plebs, cool guy indeed.  This being said, the post is just AI garbage. You can't expect a beefed up autocorrect to solve a mystery like this. Sorry, OP..",
+                "Comment-sentiment": -1
+            },
+            {
+                "Comment-body": "Dorian welcomes more interviews, paid in sushis per minute, to deny the claims he is satoshin",
+                "Comment-sentiment": 0
+            }
+        ]
+    },
+    {
+        "Title": "Bitcoin is the new gold",
+        "Creation-Time": "2025-04-10 14:35:10",
+        "Body": "Comments:",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Gold"
+        ],
+        "Suggested-marketing-tags": [
+            "Cryptocurrency",
+            "Investment",
+            "Finance"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "D   S, S   S",
+                "Comment-sentiment": "Neutral"
+            },
+            {
+                "Comment": "I wish it actually was right now, cause the real gold is acting the new gold right now.",
+                "Comment-sentiment": "Negative"
+            },
+            {
+                "Comment": "Only im allow to make meme that grammer no good.",
+                "Comment-sentiment": "Neutral"
+            }
+        ]
+    },
+    {
+        "Title": "Seed Phrase Storage Ideas",
+        "Creation-Time": "2025-04-11 18:31:29",
+        "Body": "I was just browsing the sub and came across a post here(https:www.reddit.comrBit.coincomments1jw3upjsomeonestoleeverythingfrommyledger) suggesting that the problem was a particular wallet when that just wasn't the case. But it does raise a question that has puzzled me for a long time and I'm curious how people are managing it. There doesn't seem to be a completely foolproof answer on the internet. I'm pretty confident that my seed phrases are safely stored, so I don't worry about them being stolen. The problem is that they are not readily accessible, even to me. Remembering a sequence of 12 to 24 words in a precise but nonsensical order is basically impossible, unless you're the Real Rain Man. from YouTube or the guy who can tell the shopkeeper the UPC code for everything he just bought or your man who can tell you the value of  to the nth decimal place, well, you're going to forget your seed phrase. I don't need a seed phrase often, but I have needed one before and it's very inconvenient to access it. Are there any simple ways that balance safety and convenience? I'm not trying to get you to tell me how you store your seed phrases, so please don't do that. Just general ideas would be great.",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "seed phrase",
+            "storage",
+            "safety",
+            "convenience"
+        ],
+        "Suggested-marketing-tags": [
+            "Crypto",
+            "Security",
+            "Storage Solutions"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Look up Memory Palace system. It's a 2000 year old memory method. I read 1 article and then learn my seed in 20 min. I said this is amazing to my wife and she also learnt it in 20. We practice once a month.",
+                "Comment-Sentiment": "Positive"
+            },
+            {
+                "Comment": "I'm presuming you're talking about a metal seed phrase in case of fire or flood. If you've ever sent the state of a building when it burns down, you'll probably want to have placed it somewhere you'll be able to locate (I.e, by a fireplace, flagstone or something that isn't going to move).",
+                "Comment-Sentiment": "Neutral"
+            },
+            {
+                "Comment": "Why not put it on the cloud? That way it can be accessed from any location and deviceIm a smart man!!!",
+                "Comment-Sentiment": "Negative"
+            }
+        ]
+    },
+    {
+        "Title": "Introduction to Bitcoin",
+        "Creation-Time": "2025-04-11 11:52:00",
+        "Body": "",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "opsec"
+        ],
+        "Suggested-marketing-tags": [
+            "Cryptocurrency",
+            "Security"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "This has some historical and nostalgic relevancy combined with rather poor opsec. His email leaked on at least two separate occasions in this video, where it was blurred out other times.",
+                "Comment-Sentiment": "Negative"
+            }
+        ]
+    },
+    {
+        "Title": "Merchants Accepting BTC in DC.",
+        "Creation-Time": "2025-04-11 12:42:05",
+        "Body": "So I know there is the BTC map app but it doesnt seem to have many places on it.. Does anyone know if there are any restaurants or other options in DC that take ?. Ill be there for vacation this coming week and would love to be able to use  if. possible..",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "DC",
+            "Merchants",
+            "Vacation",
+            "Payment"
+        ],
+        "Suggested-marketing-tags": [
+            "Cryptocurrency",
+            "DC Tourism",
+            "Accepting Bitcoin",
+            "Travel"
+        ],
+        "Top-3-comments": [],
+        "comment-sentiment": []
+    },
+    {
+        "Title": "Stick to Bitcoin.",
+        "Creation-Time": "2025-04-11 10:39:35",
+        "Body": "I’ve been investing in crypto a few months now. The only investment which has not produced a significant loss is Bitcoin. I am down on XRP, Doge, Ada, Hbar, Sui, Stellar, Litecoin, and Dogwifhat. I thought I was being sensible spreading my investments but really I should have just stuck to basics and DCA'd Bitcoin.. I know some of you made the big bucks betting on this coins I am down on, but for those of us that are late onto the scene please spread the awareness of sticking to what we know is the strongest of all  Bitcoin.",
+        "Sentiment": "negative",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Loss",
+            "Investment",
+            "XRP",
+            "Doge",
+            "Ada",
+            "Hbar",
+            "Sui",
+            "Stellar",
+            "Litecoin",
+            "Dogwifhat"
+        ],
+        "Suggested-marketing-tags": [
+            "Crypto",
+            "Investment",
+            "Bitcoin",
+            "Loss",
+            "Diversification",
+            "Risk",
+            "Awareness"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "If I were you, why not take the L on the others and just convert them to BTC if you know this now?"
+            }
+        ],
+        "comment-sentiment": "neutral"
+    },
+    {
+        "Title": "Security",
+        "Creation-Time": "2025-04-11 19:22:43",
+        "Body": "As someone who has only been somewhat familiar with cryptocurrencies, what are the best ways to go about protecting your crypto assets? Is there certain apps or can someone kind of fill me in a little? I know of mainstream apps like I guess crypto.com or coinbase but, Im assuming theres levels to this security thing in crypto..",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "cryptocurrencies",
+            "protecting crypto assets",
+            "apps",
+            "security in crypto"
+        ],
+        "Suggested-marketing-tags": [
+            "cryptocurrencies",
+            "security",
+            "how to",
+            "protect crypto assets"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Apps that sell aren't the best. Bitcoin only wallets can be ok (websites are not wallets). Hardware wallet is the best option.",
+                "Comment-Sentiment": "negative"
+            },
+            {
+                "Comment": "Airgapped hardware wallet. Do some research and educate yourself.",
+                "Comment-Sentiment": "positive"
+            },
+            {
+                "Comment": "Cold wallets are the best, for example Ledger, Trezor, Tangem, SafePal.",
+                "Comment-Sentiment": "neutral"
+            }
+        ],
+        "comment-sentiment": [
+            "negative",
+            "positive",
+            "neutral"
+        ]
+    },
+    {
+        "Title": "What do I tell my mom?",
+        "Creation-Time": "2025-04-11 03:02:59",
+        "Body": "My mother got interested in Bitcoin from a financial astrologer and now wants to buy up to 4 bitcoin. She has money tied up in an account but can use it for BTC. I've been burned with a seed password before and she's okay on a computer but never used any crypto, just wants to invest. What do I tell her? Go for it? Buy 2 and see how it goes? Invest traditionally instead?",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "financial astrologer",
+            "seed password",
+            "crypto investment"
+        ],
+        "Suggested-marketing-tags": [
+            "Bitcoin",
+            "cryptocurrency investment",
+            "financial advice"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "This is a joke right? Financial astrologer? Is that a thing?",
+                "Sentiment": "neutral"
+            },
+            {
+                "Comment": "Below is the same advice I'm giving my own mom. I would say she can 'start' getting exposure to Bitcoin via ETFs like IBIT or FBTC. She'll have the reassurance that huge asset managers like Blackrock or Fidelity are backing it up and it'll be very easy to get that exposure. She can then ramp up her exposure to ETF based Bitcoin as she feels more comfortable with the risk. I think the 1 issue is 'knowing what you own', don't stress or get shaken out by volatility, and consider this as a truly long term hold. In the meantime, she can do research and learn self custody and all the benefits, risks, and responsibilities there. Then depending on her comfort level, either keep holding those ETFS with a larger position gradually, andor start taking self-custody starting small and ramping up as she feels more comfortable.",
+                "Sentiment": "positive"
+            },
+            {
+                "Comment": "Tell her to open up a Fidelity crypto account and buy it there. No seed phrase and who knows if they are IOUs but at least she wont get it stolen.",
+                "Sentiment": "neutral"
+            }
+        ],
+        "comment-sentiment": [
+            "neutral",
+            "positive",
+            "neutral"
+        ]
+    },
+    {
+        "Title": "2of3 multisig xpub backup as mnemomic.",
+        "Creation-Time": "2025-04-11 22:01:21",
+        "Body": "I read, to transact it is necessary to back up the multisig secret keys and all. three extended public keys. In case i would like to have the xpubs engraved in. metal together with each of the secrets. Is it possible to encode the xpub as. mnemonic in words from bip39? English words are human readable and error prone. when recovering, then a string of non-mnemomic letters and numbers. Otherwise. the xpub could be stored digitally, but I would like to avoid that.",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "multisig",
+            "xpub",
+            "backup",
+            "mnemonic",
+            "bip39"
+        ],
+        "Suggested-marketing-tags": [
+            "multisig security",
+            "cryptocurrency backup",
+            "mnemonic encoding",
+            "xpub storage"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Not exactly. You can transact with one of: All three private keys. Any two private keys plus all three xpubs. This is because each private key can derive its corresponding xpub. Putting the xpubs on metal is overkill. Just print out a sheet of paper with each backup that includes all the information to reconstruct the wallet. The paper should include the xpub of each key, the derivation path of each key, the address type of the wallet (e.g. P2WSH) and the starting address index (probably 0). The last two pieces of information you could guess and check, but since you're already printing out copies you might as well make it as easy as possible for your future self who is restoring from a backup and include every relevant detail about the wallet. It's also completely acceptable storing your wallet metadata and xpubs digitally. You're risking privacy, not necessarily security. But if you care about privacy (which you should), you can take some extra precautions like: Use a dumb printer without internet access or make sure your printer is on a strictly-firewalled network. If you choose to store a digital copy of xpubs and metadata, encrypt it with an offline password manager or gpg or something. Of course never, under any circumstance, enter a private key into a general purpose computing device. It's only safe to store the xpubs and metadata digitally.",
+                "Sentiment": "positive"
+            },
+            {
+                "Comment": "I would recommend against storing xpubs on metal. Instead, consider using a hardware wallet or a secure digital backup method.",
+                "Sentiment": "negative"
+            },
+            {
+                "Comment": "You can also use a paper wallet generator to create a physical backup with the xpub and other relevant information.",
+                "Sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "Title": "Off grid bitcoin mine in east africa",
+        "Creation-Time": "2025-04-10 08:56:40",
+        "Body": "Full video: https:youtu.beJ2K1fgVyh5Y?siMlMgSVlMW3llUCoZ",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "bitcoin mine",
+            "off grid",
+            "Zambezi river",
+            "Zambian side",
+            "Congolese border",
+            "hydro electric plants"
+        ],
+        "Suggested-marketing-tags": [
+            "bitcoin",
+            "mining",
+            "renewable energy",
+            "electricity",
+            "Africa",
+            "Zambia",
+            "Congo",
+            "environmentally friendly"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "It's southern Africa not East Africa. The hydro station is located near the source of the Zambezi river on the Zambian side near the Congolese border. The project has been around for a few years and was started to develop the area by supplying affordable electricity to the community. The grid is isolated and is not connected to the Zambian national grid. Zambia has an overall shortage of electricity which results in load shedding for 8 to 12 hours daily in most of the country. The excess of electricity from the Zengamina grid cannot be exported though and thus a unique situation existed. Mining Bitcoin has been the solution to monetize the excess electricity to further develop the grid and subsidize consumers. I visited the site a few years ago with a team of engineers that were scouting the area for sites to build hydro electric plants. It's a fascinating project and I'm delighted to hear they adopted bitcoin mining as part of it.",
+                "Comment-sentiment": "neutral"
+            },
+            {
+                "Comment": "How does having a bitcoin mine equate to more electricity for the locals?",
+                "Comment-sentiment": "neutral"
+            },
+            {
+                "Comment": "Love this guys videos.",
+                "Comment-sentiment": "positive"
+            }
+        ],
+        "comment-sentiment": [
+            "neutral",
+            "neutral",
+            "positive"
+        ]
+    },
+    {
+        "Title": "Where can I buy modern art with BTC?.",
+        "Creation-Time": "2025-04-11 19:51:09",
+        "Body": "I'm looking to buy some art (Invader  Hirst  Banksy) does anyone know where I can pay with Bitcoin?.",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "modern art",
+            "Bitcoin",
+            "Sothebys Auction",
+            "Hirst",
+            "Banksy",
+            "sculpture"
+        ],
+        "Suggested-marketing-tags": [
+            "modern-art-collectors",
+            "cryptocurrency-art-buyers",
+            "art-auctions"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Sothebys Auction ? (there were always these big new about BTC sales in Auctions some years ago) u could reach out to Galleries direct and see what they say, try www.hanguppictures.com (London), i had good experiences with them."
+            },
+            {
+                "Comment": "Iv got a bronze sculpture the allure of opium by Jules juont .pretty cool peice willing to trade for bitcoin."
+            },
+            {
+                "Comment": "Try these people out Bitcoin Apex (https:www.bitcoinapexart.com) Von Bitcoin (https:www.vonbitcoin.com) Scarce City (https:scarce.citygoods)"
+            }
+        ],
+        "comment-sentiment": [
+            "neutral",
+            "neutral",
+            "neutral"
+        ]
+    },
+    {
+        "Title": "And on the eighth day, God created sound money.",
+        "Creation-Time": "2025-04-10 14:38:54",
+        "Body": "",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "Sound Money",
+            "Cryptocurrency"
+        ],
+        "Suggested-marketing-tags": [
+            "Cryptocurrency",
+            "Finance",
+            "Investment",
+            "Economy"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Amen.",
+                "Sentiment": "Neutral"
+            },
+            {
+                "Comment": "dollar was the reset for the pound, this cycle goes back to at least the denarii.  global reserve currency status wen.",
+                "Sentiment": "Neutral"
+            },
+            {
+                "Comment": "To be honest, gold did it first for thousands of years. And will probably still be used in World War 4. Next to the sticks and stones.   Nevertheless, as long as there is WiFi, there will be bitcoin.",
+                "Sentiment": "Neutral"
+            }
+        ],
+        "comment-sentiment": [
+            "Neutral",
+            "Neutral",
+            "Neutral"
+        ]
+    },
+    {
+        "Title": "Can't Wait For Mine To Come In.",
+        "Creation-Time": "2025-04-10 18:31:54",
+        "Body": "Love this idea by Ledger!",
+        "Sentiment": 0,
+        "Key-topics-or-keywords": [
+            "Ledger",
+            "Monopoly",
+            "Bitcoin"
+        ],
+        "Suggested-marketing-tags": [
+            "Crypto",
+            "Gaming",
+            "Collectibles"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Curious how this game would work because in the regular Monopoly, the bank never runs out of money. They just keep track by writing additional money on paper.",
+                "Comment-sentiment": 0
+            },
+            {
+                "Comment": "Monopoly with Bitcoin? Great, now I can go broke in two economies at once!",
+                "Comment-sentiment": -1
+            },
+            {
+                "Comment": "How does this work.",
+                "Comment-sentiment": 0
+            }
+        ],
+        "comment-sentiment": [
+            0,
+            -1,
+            0
+        ]
+    },
+    {
+        "Title": "How much BTC do you have?",
+        "Creation-Time": "2025-04-12 08:50:01",
+        "Body": "I know people will say: dont share how much Bitcoin you have but when I am reading everyones posts here I always wonder: Do they have: - 100 BTC - 10 BTC - 1 BTC - 0,5 BTC - 0,1 BTC Etc Somehow wanting to see where I rank with my btc saving. Am I the only one who thinks like that and is curious like that?",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Cryptocurrency",
+            "Savings",
+            "Ranking",
+            "Curiosity"
+        ],
+        "Suggested-marketing-tags": [
+            "CryptoCurrency",
+            "BitcoinSavings",
+            "CryptoRanking",
+            "CryptoCuriosity"
+        ],
+        "Top-3-comments": [
+            "Nice try, IRS.",
+            "I have 'not enough'.",
+            "More than I had yesterday."
+        ],
+        "comment-sentiment": [
+            "Neutral",
+            "Neutral",
+            "Neutral"
+        ]
+    },
+    {
+        "Title": "Could a Mining Pool use code to divert independent miners hash rate that are in the pool? As in even though Bitcoin code maybe safe what is preventing a bad actor from hacking a pools source code to perform a 51 attack on Bitcoin?",
+        "Creation-Time": "2025-04-11 17:54:13",
+        "Body": "I am sure I may not be asking the question the correct way. And feel free to rephrase the question if you understand what I am trying to ask. It seems like mining pools are the weak link in the Bitcoin protocol. Any other people wonder what will take Bitcoin down or is it truly impervious to destruction?",
+        "Sentiment": "negative",
+        "Key-topics-or-keywords": [
+            "Mining Pool",
+            "51 attack",
+            "Bitcoin protocol",
+            "weak link",
+            "destruction"
+        ],
+        "Suggested-marketing-tags": [
+            "Cryptocurrency",
+            "Blockchain",
+            "Security",
+            "Technology",
+            "Investing",
+            "Risks"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Which mining pool do you think is capable of a 51 attack if it was compromised?"
+            },
+            {
+                "Comment": "Mining pools don't control the software computers used to mine (you'd need to hack all of the software from all of the computers mining Bitcoin at the same time). Pools ONLY coordinate the hashrate and don't control it."
+            },
+            {
+                "Comment": "They aren't independent if they are using your pool. You get to decide the block template. This is a massive issue."
+            }
+        ],
+        "comment-sentiment": [
+            "negative",
+            "neutral",
+            "negative"
+        ]
+    },
+    {
+        "Title": "That's it.",
+        "Creation-Time": "2025-04-10 18:27:18",
+        "Body": "https:preview.redd.itp53cilg3w1ue1.png?width1024formatpngautowebpsebfcf7f563cefc.eb414d35bfbf66a29756e31434.",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "HODL",
+            "get rich"
+        ],
+        "Suggested-marketing-tags": [
+            "cryptocurrency",
+            "investment",
+            "wealth creation"
+        ],
+        "Top-3-comments": [
+            "Step 4: Panic during the dip. Step 5: Repeat steps 13.",
+            "Too many steps. I got lost after sitting down.",
+            "4. HODL Bitcoin 5. STFU 6. Get rich."
+        ],
+        "comment-sentiment": [
+            "Negative",
+            "Neutral",
+            "Positive"
+        ]
+    },
+    {
+        "Title": "Surprising China news sends Bitcoin reeling to 84K",
+        "Creation-Time": "2025-04-12 04:13:54",
+        "Body": "Comments:.\\n- Another clickbait title. It is neither surprising  nor just China news that caused this effect on bitcoin price.\\n- Reeling to a really reasonable price. The amount of FUD thats emerged around the recent drops (for ants) makes me more confident than ever that we are seeing 120k by the end of the year. 200k by the end of Trumps term. Lets get it.\\n- reeeeeling.",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "price",
+            "China news",
+            "FUD"
+        ],
+        "Suggested-marketing-tags": [
+            "Bitcoin",
+            "cryptocurrency",
+            "investment",
+            "price trend",
+            "market sentiment"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Another clickbait title. It is neither surprising  nor just China news that caused this effect on bitcoin price.",
+                "Comment-Sentiment": "negative"
+            },
+            {
+                "Comment": "Reeling to a really reasonable price. The amount of FUD thats emerged around the recent drops (for ants) makes me more confident than ever that we are seeing 120k by the end of the year. 200k by the end of Trumps term. Lets get it.",
+                "Comment-Sentiment": "positive"
+            },
+            {
+                "Comment": "reeeeeling.",
+                "Comment-Sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "Title": "30k tax bill!",
+        "Creation-Time": "2025-04-11 03:47:19",
+        "Body": "My options are to sell mstr, bitcoin, or do a bitcoin backed loan. All my capital is tied up. What's the best way to pay it?",
+        "Sentiment": "negative",
+        "Key-topics-or-keywords": [
+            "tax",
+            "sell",
+            "bitcoin",
+            "mstr",
+            "loan"
+        ],
+        "Suggested-marketing-tags": [
+            "cryptocurrency",
+            "taxes",
+            "financial advice"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Sell the MSTR, hodl the real BTC.",
+                "Comment-Sentiment": "positive"
+            },
+            {
+                "Comment": "This will depend, obviously, to where you live and what tax agency has jurisdiction. But if late payment of your taxes for 1 or 2 or 3 years only comes with interest charges. It might be best to delay and pay it with interest in dollars later. Your bitcoin will increase in value way beyond the I terest charge.",
+                "Comment-Sentiment": "neutral"
+            },
+            {
+                "Comment": "I mean.. five bucks is five bucks..",
+                "Comment-Sentiment": "neutral"
+            }
+        ],
+        "comment-sentiment": [
+            "positive",
+            "neutral",
+            "neutral"
+        ]
+    },
+    {
+        "Title": "Bitcoin is better than gold, because there are no Bitcoin asteroids.",
+        "Creation-Time": "2025-04-10 17:50:57",
+        "Body": "Some people say gold is better than Bitcoin, while other people say Bitcoin and gold are equally good, and BTC is just the digital version of the physical gold. This notion is based on the idea that both BTC and gold are capped, but this is not exactly true. Bitcoin is capped at 21M coin, and there is a finite amount of gold on Earth, yes, that's correct. However, NASA and other tech firms are exploring mining options for asteroids containing gold. Most people aren't cognitively capable of understanding and comprehending the size of celestial bodies, but golden asteroids and infinite gold are basically the same thing. If mining is conducted on golden asteroids, the amount of gold will be so huge, that we can assume we will never run out of gold or reach a point where demand outpaces the supply. If space mining happens, gold price will go down significantly. It will eventually happen, it's just a matter of time until we have fully re-usable rockets and launching costs are reduced to the point, where constant launches, missions and returning rockets are a profitable business. Bitcoin solves this, because there are no asteroids containing Bitcoins. Gold will always be finite... until it isn't. Technically, Bitcoin's 21M supply can be increased, but this requires the approval of nodes and miners, meaning everyone will have to agree to lose profits, meaning it's never gonna happen. Gold is irreplaceable part of modern electronics, yet Bitcoin still outperforms gold.",
+        "Sentiment": "positive",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Gold",
+            "Asteroids",
+            "Capped",
+            "Supply",
+            "Demand",
+            "Space mining"
+        ],
+        "Suggested-marketing-tags": [
+            "Cryptocurrency",
+            "Investment",
+            "Technology",
+            "Innovation"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "The 'gold asteroid' argument that keeps getting repeated is a dumb one. Gold on some asteroid light years away from us is absolutely not the same as gold above ground on Earth. It has a present value of exactly 0ounce.",
+                "Comment-sentiment": "negative"
+            },
+            {
+                "Comment": "The likelihood of golden asteroids being mined in our lifetime is much, much lower than the likelihood of something happening that seriously disrupts bitcoin (ie security algorithm cracked, new hyper-aggressive ban on it across the western world, better version of the technology being invented). To be clear, I think its very, very unlikely any of those things will happen to Bitcoin, but its very, very, very, very unlikely that we successful mine a golden asteroid. And if we do somehow make our way to the golden asteroid and have the technology necessary to bring it back to earth, dont you think that whoever makes it there will do anything they can to avoid crashing the market of the valuable resource they just accessed?.",
+                "Comment-sentiment": "negative"
+            },
+            {
+                "Comment": "Humans will be extinct before they are able to mine an asteroid.",
+                "Comment-sentiment": "negative"
+            }
+        ]
+    },
+    {
+        "Title": "Stay away from leverage - Personal experience.",
+        "Creation-Time": "2025-04-10 14:01:57",
+        "Body": "I wanted to share my experience for those who are considering leverage trading.. I've been in this space for over a decade and early on I learned I should stay away from leverage... or rather I thought I did. For some reason (long story) I decided to go long on bitcoin with leverage. I wanted to be stress-free so I kept a significant balance (5 figures) and used little margin. I entered at around 82k last week and my liquidation was at around 74k, which I thought was very safe. All was good until Sunday. I can't explain the stress I suffered the following days. At some point the price touched 74.4k, very close to liquidation. The whole time I was literally this guy(<https://www.memeatlas.com/images/wojakswojak-stage-6-doomer.png>) looking at the chart deciding whether to exit and lose 60-70-80 or wait. I couldn't work, eat, spend time with family or friends, or do anything other than think about why I did this stupid trade. It was money that I could afford to lose, but the psychological damage of losing it would have been hard. In any case I decided to wait. Fortunately yesterday I was able to exit safely with minimal loss (I could have waited more and exit with gains but I wanted to be out ASAP). I think my life expectancy just dropped a little after all this, but hopefully this time I learned the lesson. No more leverage trading for me. I truly can't believe people do this on a daily basis!.",
+        "Sentiment": "negative",
+        "Key-topics-or-keywords": [
+            "leverage",
+            "trading",
+            "stress",
+            "liquidation",
+            "psychological damage"
+        ],
+        "Suggested-marketing-tags": [
+            "personal finance",
+            "investment advice",
+            "cryptocurrency trading",
+            "risk management",
+            "financial stress"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "I think everybody must at least once got liquidated to stay away from leverage:D.",
+                "Comment-Sentiment": "negative"
+            },
+            {
+                "Comment": "I am a busy guy and 100x leverage allows me to lose my money much faster.",
+                "Comment-Sentiment": "negative"
+            },
+            {
+                "Comment": "This is something people cant really understand until they go through it. I think it has something to do with every human being secretly thinking they are smarter than the rest. Good reality check for you. Most get liquidated.",
+                "Comment-Sentiment": "negative"
+            }
+        ],
+        "comment-sentiment": [
+            "negative",
+            "negative",
+            "negative"
+        ]
+    },
+    {
+        "Title": "What made you use Bitcoin",
+        "Creation-Time": "2025-04-10 02:47:06",
+        "Body": "Back in 2015, I needed to buy some weed but my local dealer only accepted bitcoin...",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Weed",
+            "Dealer",
+            "Purchase"
+        ],
+        "Suggested-marketing-tags": [
+            "Cryptocurrency",
+            "Drug Culture",
+            "Payment Method"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "I used bitcoin as a NGO or independant reporter in an authoritarian regime so that I can continue to operate without the government shutting down my bank account There was a book that was a collection of testimonies from bitcoin users. Quite a lot of impact actually..",
+                "Sentiment": "Positive"
+            },
+            {
+                "Comment": "I used it to send money to a friend in india who was starving, when no other payment system would go through..",
+                "Sentiment": "Positive"
+            },
+            {
+                "Comment": "What made you use Bitcoin Silk Road.",
+                "Sentiment": "Neutral"
+            }
+        ]
+    },
+    {
+        "Title": "Damn! Selling all my BTC for fiat right away!",
+        "Creation-Time": "2025-04-10 07:15:04",
+        "Body": "Comments:\n- Politicians like u to believe it's the complete opposite.\n- Roll up the sheet with your 24 words on it and do a line off your hardware wallet. Its 2025, get creative.\n- love it.",
+        "Sentiment": "negative",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "selling",
+            "fiat"
+        ],
+        "Suggested-marketing-tags": [
+            "crypto-selling",
+            "financial-decisions",
+            "digital-currency"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "Politicians like u to believe it's the complete opposite.",
+                "Sentiment": "negative"
+            },
+            {
+                "Comment": "Roll up the sheet with your 24 words on it and do a line off your hardware wallet. Its 2025, get creative.",
+                "Sentiment": "positive"
+            },
+            {
+                "Comment": "love it.",
+                "Sentiment": "positive"
+            }
+        ],
+        "comment-sentiment": [
+            "negative",
+            "positive",
+            "positive"
+        ]
+    },
+    {
+        "Title": "Thoughts on cold wallet's and mass adoption.",
+        "Creation-Time": "2025-04-11 02:31:41",
+        "Body": "I've been in around this community since 2017 and understand the best way to keep your coins is in a cold wallet. Now I was just reading one of the best ways to protect your cold wallet's seed phrase is \"Etched or stamped into steel and multiple copies geographically separated\". I think we can all agree this is a lot of work just to keep something that is rightfully yours... yours. How long do you think it will take for exchanges de-fi institutions to better secure your coins so you don't have to do all of this as it has to be a large hurdle for mass adoption.",
+        "Sentiment": "negative",
+        "Key-topics-or-keywords": [
+            "cold wallet",
+            "mass adoption",
+            "crypto security",
+            "Bitcoin"
+        ],
+        "Suggested-marketing-tags": [
+            "crypto security",
+            "Bitcoin",
+            "cold storage",
+            "mass adoption"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment-body": "I think we can all agree this is a lot of work just to keep something that is rightfully yours. I don't agree with that. You're overestimating the amount of work it is to stamp or etch metal. And you are underestimating the novelty and rareness of absolute ownership.",
+                "Comment-sentiment": "negative"
+            },
+            {
+                "Comment-body": "Bitcoin gives you the opportunity to be your own bank. The way it works, if done correct like holding your own keys, prevents you from being robbed by inflation, makes it impossible for others to stop you from transacting, makes confiscation almost impossible, and so on. Your statement that being your own bank is a lot of work means to me you don't understand what you actually hold. I fully realize most don't like responsibility, love it when others control their lives, make decisions for them. But usually they are not Bitcoiners. So if you want to be free, both financially as an individual, I would like to challenge you to invest Bitcoin a bit better. Realize what you hold. See that being your own bank does take some effort. But that it is a gift you can be your own bank and not it being a burden.",
+                "Comment-sentiment": "positive"
+            },
+            {
+                "Comment-body": "It's really not a lot of work especially if you have a decent stack. Takes maybe 30 min to set up a wallet and the plate backup. If cold storage makes someone nervous the best play is to buy an ETF rather than keep coins on a crypto exchange. The ETFs are more closely regulated and secure. I think even with mass adoption the majority of people will never own actual BTC on chain, they will get exposure via ETFs other custody services and proxies. That's not necessarily a bad thing, the important point is that the self custody option is there for those who want it.",
+                "Comment-sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "Title": "I came 3 years from the future to tell you one message. HOLD..",
+        "Creation-Time": "2025-04-10 04:17:44",
+        "Body": "Throughout the history of bitcoin, there has never been a three year period. where the value of bitcoin at the end of the three year period was less than the. beginning of the three year period.   Everything else is just noise.",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Investment",
+            "HODL"
+        ],
+        "Suggested-marketing-tags": [
+            "#Bitcoin",
+            "#Investment",
+            "#Hold"
+        ],
+        "Top-3-comments": [
+            "How about some powerball numbers just in case as well.",
+            "You misspelled HODL.",
+            "In future, will they switch from HODL to HOLD?"
+        ],
+        "comment-sentiment": [
+            "Neutral",
+            "Neutral",
+            "Neutral"
+        ]
+    },
+    {
+        "Title": "North Carolina lawmaker introduces Digital Asset Freedom Act",
+        "Creation-Time": "2025-04-11 12:02:51",
+        "Body": "Comments:",
+        "Sentiment": null,
+        "Key-topics-or-keywords": [
+            "North Carolina",
+            "Digital Asset Freedom Act"
+        ],
+        "Suggested-marketing-tags": [
+            "Digital Asset Freedom Act",
+            "Legislation",
+            "Finance",
+            "Cryptocurrency"
+        ],
+        "Top-3-comments": [],
+        "comment-sentiment": null
+    },
+    {
+        "Title": "Another small step towards wider adoption.",
+        "Creation-Time": "2025-04-11 11:37:32",
+        "Body": "",
+        "Sentiment": "",
+        "Key-topics-or-keywords": [],
+        "Suggested-marketing-tags": [],
+        "Top-3-comments": [],
+        "comment-sentiment": []
+    },
+    {
+        "Title": "Your Daily Bitcoin Breakdown newsletter is now live. Check out todays Top Stories and a sneak peek at the latest Opinion  Analysis pieces. Full issue link is in the comments.",
+        "Creation-Time": "2025-04-10 19:04:43",
+        "Body": "Comments:.",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "Breakdown",
+            "Newsletter",
+            "Top Stories",
+            "Opinion",
+            "Analysis"
+        ],
+        "Suggested-marketing-tags": [
+            "Finance",
+            "Cryptocurrency",
+            "Newsletter"
+        ],
+        "Top-3-comments": [],
+        "comment-sentiment": []
+    },
+    {
+        "Title": "Golden Future: How Bitcoin Revives Old Principles and Becomes the Opportunity of the Century.",
+        "Creation-Time": "2025-04-10 19:38:49",
+        "Body": "Hello! I'm currently reading a book about Bitcoin in Germany. The book also serves as an introduction to the topic and highlights how Bitcoin could become the opportunity of the century. In the following graphic, Bitcoin is compared to traditional asset classes such as stocks, real estate, and gold in terms of their properties as a store of value. Unfortunately, the screenshot is in German. What do you think of this graphic? I find it really interesting. Here are the individual points translated into English: No inflation possible. Infinitely divisible. Liquid. Portable. Transmittable. Sendable. No cost of carry. No third-party access possible. No controlling authority. Accessible everywhere. Durable. Verifiable. Unlimited capacity. Egalitarian rules. Final (settlement). Non-counterfeitable. Fungible. Picture Source: Goldene Zukunft by Florian Bruce Boye How Bitcoin Revives Old Principles and Becomes the Opportunity of the Century.",
+        "Sentiment": "Positive",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "store of value",
+            "traditional asset classes",
+            "stocks",
+            "real estate",
+            "gold",
+            "properties",
+            "no inflation",
+            "infinitely divisible",
+            "liquid",
+            "portable",
+            "transmittable",
+            "sendable",
+            "no cost of carry",
+            "no third-party access",
+            "no controlling authority",
+            "accessible everywhere",
+            "durable",
+            "verifiable",
+            "unlimited capacity",
+            "egalitarian rules",
+            "final settlement",
+            "non-counterfeitable",
+            "fungible"
+        ],
+        "Suggested-marketing-tags": [
+            "Bitcoin",
+            "Investment",
+            "Finance",
+            "Cryptocurrency",
+            "Store of Value",
+            "Inflation",
+            "Liquidity",
+            "Portability",
+            "Accessibility",
+            "Security",
+            "Verifiability",
+            "Non-Counterfeitability",
+            "Fungibility"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment-Body": "To be honest, he’s even underselling bitcoin quite a bit ;)  Gold portable? Only for small amounts. Carrying your live savings as a wealthy man could become impossible  Real estate verifiable? Most houses have some minor or major so called 'hidden faults'  Gold fungible? A 1oz gold coin is different if it's a 24k maple leaf or a 22k american eagle. Depending where you are, one or the other might be prefered by the market, translating into slight premiums or discounts on either coin.  Actions liquid? Maybe apple and microsoft stock, but many companies have low liquidity. Especially if they're not public companies  No cost of carry for actions? If you want to have a diversified portfolio via an ETF, there's always an annual cost to be paid (typically 0.2).",
+                "Sentiment": "Positive"
+            },
+            {
+                "Comment-Body": "Can we get back the stolen btc ?",
+                "Sentiment": "Neutral"
+            },
+            {
+                "Comment-Body": "It is not accessible everywhere. It is only accessible where there is Internet connectivity. As for the cost of carry, you need an electronic device to 'carry' the money around.",
+                "Sentiment": "Negative"
+            }
+        ],
+        "comment-sentiment": [
+            "Positive",
+            "Neutral",
+            "Negative"
+        ]
+    },
+    {
+        "Title": "How Do Thieves Find Pictures of People's Seed Phrase?",
+        "Creation-Time": "2025-04-10 18:04:14",
+        "Body": "I keep hearing stories of thieves stealing seed phrases from people who take a picture and store it on line. I am pretty sure these people aren't posting the seed phrase photo on Facebook. They probably have it locked on Google Drive or something like that. How do thieves A) know the photo is there in the 1st place. B) Don't they have to break the security to get at photo? Just curious.",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "seed phrase",
+            "crypto theft",
+            "photo security"
+        ],
+        "Suggested-marketing-tags": [
+            "cybersecurity",
+            "cryptocurrency",
+            "phishing",
+            "online safety"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "How many apps do you have on your phone? 50? 100? Maybe more. How many of those have you granted access to your photos? Probably a lot. Any random app that has access can be infiltrated. With AI it's not even hard to run a search on thousands of photos for lists of words. So your phone doesn't even have to be hacked like many of the replies on here talk about. Just one small (or large) developer who's database or app is compromised can lead to loss of crypto if a photo was taken of the passphrase.",
+                "Comment-Sentiment": "negative"
+            },
+            {
+                "Comment": "If you MUST photograph your seed phrase, use a Polaroid. But at that point you might as well just write it down.",
+                "Comment-Sentiment": "neutral"
+            },
+            {
+                "Comment": "Heres how I would do it: Write a Python script that scans an entire directory for all PNGJPG files. For all images, use OCR to scan all words. Check how many of those words match on the BIP39 word list. Rank results in match percentage. Open the photos with the highest match.",
+                "Comment-Sentiment": "neutral"
+            }
+        ]
+    },
+    {
+        "Title": "Right now Other nation state and companies are at a Million Dollar question:",
+        "Creation-Time": "2025-04-10 01:15:47",
+        "Body": "Comments:",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "gambling",
+            "Habbo Hotel",
+            "scam",
+            "fake money"
+        ],
+        "Suggested-marketing-tags": [
+            "crypto",
+            "gambling",
+            "Bitcoin history",
+            "Habbo Hotel",
+            "scam debunking"
+        ],
+        "Top-3-comments": [
+            {
+                "Comment": "B. And kept doing so till last year.",
+                "Comment-sentiment": "neutral"
+            },
+            {
+                "Comment": "Heard a little about it when it dropped at 20k. Laughed and thought it must be a scam. 2020 and Matthew Kratter made me understand it.",
+                "Comment-sentiment": "negative"
+            },
+            {
+                "Comment": "I remember back in 2009-2012 I used to play this chat room game Habbo Hotel where you would be able to gamble in game. People would gamble their furniture in game, and back then people were trying to gamble with BTC.  All of us morons were sitting there \"hell no, I'm not gonna give my furni away for some fake moneh\"   Yeah... who's laughing now I guess lol.",
+                "Comment-sentiment": "positive"
+            }
+        ]
+    },
+    {
+        "Title": "Looking for some essential Bitcoin reads to carry you into the weekend?",
+        "Creation-Time": "2025-04-11 10:25:21",
+        "Body": "Comments:",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "Bitcoin",
+            "essential reads",
+            "weekend"
+        ],
+        "Suggested-marketing-tags": [
+            "crypto",
+            "investing",
+            "education"
+        ],
+        "Top-3-comments": [],
+        "comment-sentiment": []
+    },
+    {
+        "Title": "Seed phrase storage.",
+        "Creation-Time": "2025-04-11 01:55:05",
+        "Body": "Heard about those poor souls who lost there cold storage wallets and metal plates in the fires in LA and hence lost their coins and it got me thinking the best way to store your seed phrase is in your mind obviously. But how to memorize 24 words? I found its not too difficult if I memorize them in groups of three. I find my mind easily creates associations for every three words. Anybody else do it this way?.",
+        "Sentiment": "Neutral",
+        "Key-topics-or-keywords": [
+            "Seed phrase storage",
+            "Cold storage",
+            "Memory",
+            "Memorizing",
+            "Associations",
+            "Fire",
+            "Loss"
+        ],
+        "Suggested-marketing-tags": [
+            "Cryptocurrency",
+            "Security",
+            "Storage",
+            "Wallets",
+            "Backups"
+        ],
+        "Top-3-comments": [
+            "Comment 1: This is not the best way to store them. Memory is faulty and old age or a bonk on the head are more risky than a fire. Etched or stamped into steel and multiple copies geographically separated is the answer.",
+            "Comment 2: Stamping kit at Harbor Freight, then go to Ace and get a couple stacks of big washers with a bolt and wingnut to secure them. Probably 20-30 bucks out the door.",
+            "Comment 3: 3D print a buttplug and carry it around at all times."
+        ],
+        "comment-sentiment": [
+            "Comment 1 Sentiment: Negative",
+            "Comment 2 Sentiment: Neutral",
+            "Comment 3 Sentiment: Neutral"
+        ]
+    },
+    {
+        "Title": "Record End Time: 2025-04-13 04:31:19",
+        "Creation-Time": "2025-04-13 04:31:19",
+        "Body": "Record End Time: 2025-04-13 04:31:19",
+        "Sentiment": "neutral",
+        "Key-topics-or-keywords": [
+            "Record End Time"
+        ],
+        "Suggested-marketing-tags": [
+            "record",
+            "time"
+        ],
+        "Top-3-comments": [],
+        "comment-sentiment": []
+    }
+]
