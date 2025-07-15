@@ -1,1 +1,1 @@
-## Tool for Buidl AI Hackerthon
+## Tool for Buidl AI Hackathon
